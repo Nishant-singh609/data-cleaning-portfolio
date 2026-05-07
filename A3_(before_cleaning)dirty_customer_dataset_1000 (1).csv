@@ -1,0 +1,1021 @@
+Customer_ID,Name,Gender,Age,City,Signup_Date,Last_Purchase_Date,Purchase_Amount,Feedback_Score,Email,Phone_Number,Country
+CUST0001,Luke Hanson,,28,Chennai,2023-11-11,2026-02-21,₹11040,1.0,kevinfisher@hotmail.com,316.314.2031,
+CUST0002,Lisa Costa,Other,,Pune,2026-04-06,2026-04-18,₹15142,1.0,davidrobinson@kelly-crawford.net,(600)176-5674x84235,USA
+CUST0003,Mr. Kevin Gamble,Female,33 yrs,,2021-08-26,2026-04-18,,,wrong_email.com,+1-322-053-8016x2164,India
+CUST0004,Jennifer Santos,,60 yrs,,2025-04-01,2025-12-18,26072,5.0,wrong_email.com,260.082.5758x91945,Canada
+CUST0005,,,Age is 45 years,,2024-09-08,2025-10-02,,5.0,sancheztina@brooks.com,+1-609-632-0152,UK
+CUST0006,Randall Martin,,38 yrs,Indore,2022-03-06,2025-08-08,₹26343,4.0,watsonkyle@hotmail.com,12345,UK
+CUST0007,Samuel Webster,Male,,Delhi,2025-08-03,2025-11-16,,1.0,smithmichael@gmail.com,(385)871-3226,Canada
+CUST0008,Gregory Walsh,Female,,Bhopal,2022-08-13,2025-08-31,,3.0,lewisstephanie@benton.com,001-512-613-0648x4886,India
+CUST0009,Ronald Mullen,Other,,Mumbai,2022-06-02,2025-07-01,,5.0,laurie10@gmail.com,917-650-9689,USA
+CUST0010,Jessica Tate,,,Bhopal,2023-09-16,2026-04-14,2231,,jwalker@berry.com,241-899-0079x56692,
+CUST0011,Sean Shelton,Other,,Mumbai,2024-08-02,2024-06-23,,1.0,elizabeth57@gmail.com,906-136-8626,UK
+CUST0012,Courtney Barnett,Female,Age is 29 years,Mumbai,2024-06-06,2025-03-05,₹4306,4.0,wjohnson@gmail.com,921-209-8209x223,India
+CUST0013,Anthony Rosario,Other,18 yrs,Chennai,2023-05-15,2025-10-10,8637,,ellisonthomas@gmail.com,(322)458-6132x6223,India
+CUST0014,Rebecca Rodriguez,,Age is 54 years,Indore,2026-03-13,,48839,2.0,mbanks@warner.com,881-181-5660x913,USA
+CUST0015,Andrea Jones,Female,28 yrs,Mumbai,2025-07-04,2025-02-28,,4.0,wrong_email.com,487.472.5259,India
+CUST0016,Carrie Thompson,Other,27 yrs,Indore,2023-05-06,2025-01-13,12485,5.0,samantharobinson@christian.com,546-721-9533,
+CUST0017,James Hatfield Jr.,,,Pune,2022-08-02,2026-04-06,₹34111,1.0,mistybaker@smith.com,943-766-3014x257,India
+CUST0018,Alicia Williams,Other,,Delhi,2023-09-27,2024-07-31,₹25641,4.0,justin15@yahoo.com,239-015-0306,India
+CUST0019,Duane Oconnell,,,Indore,2023-09-13,2025-06-24,41419,5.0,uwatson@boyd.net,903-570-3269,Canada
+CUST0020,Jonathan Monroe,Female,,Bhopal,2021-06-01,2024-06-06,₹35910,,shawnchavez@hotmail.com,408.015.9136,Canada
+CUST0021,Derek Smith,Female,34 yrs,Pune,2021-06-22,2025-07-21,,4.0,qmartinez@moore.biz,+1-341-084-5300x71188,USA
+CUST0022,Elizabeth Gallegos,Other,45,Indore,2023-09-03,,,1.0,nlewis@simmons.biz,12345,Canada
+CUST0023,Heather Peterson,Female,42 yrs,,2022-06-05,2026-02-19,,4.0,hallerin@reid-may.com,923.199.1511x328,Canada
+CUST0024,,Male,51 yrs,Chennai,2022-10-02,2025-08-22,,5.0,katherinemiranda@baker.org,527-642-9833x174,Canada
+CUST0025,Anna Grant,Other,Age is 56 years,Pune,2026-03-20,2025-05-22,2058,,danielle26@hill.org,(420)341-4584,India
+CUST0026,Nancy Delgado,Other,36 yrs,Indore,2024-06-06,2025-12-29,₹8443,3.0,deanpeterson@yahoo.com,+1-509-606-9284x90133,
+CUST0027,,Other,Age is 23 years,Pune,2022-06-10,2024-06-25,,,christopherdeleon@watson.com,074.283.1133,India
+CUST0028,Manuel Brooks,Other,Age is 52 years,,2024-03-03,2024-05-19,1013,5.0,qmoon@gmail.com,001-066-954-2153x663,USA
+CUST0029,Richard King,Other,49 yrs,Bhopal,2023-07-27,2024-05-17,,1.0,mejiarebecca@hotmail.com,802.541.9067,India
+CUST0030,James Kelley,Female,Age is 48 years,Indore,2021-09-23,2024-08-13,₹22469,1.0,shawdawn@morrison-lambert.com,781.259.8456x493,
+CUST0031,James Taylor,,58 yrs,Indore,2021-11-15,2025-06-23,,,denise37@hotmail.com,261-460-5169,Canada
+CUST0032,Kathy Dominguez,Female,18 yrs,Indore,2023-06-17,2024-11-04,9160,1.0,abigail57@hotmail.com,027.218.4923x87291,UK
+CUST0033,Katrina Taylor,,38 yrs,Chennai,2022-04-30,2024-10-09,3357,3.0,jenniferhenry@hotmail.com,+1-045-949-0349,Canada
+CUST0034,Amanda Martinez,,26,Mumbai,2026-02-09,2025-10-16,16265,2.0,patrick51@rodriguez-sloan.com,240.104.8753x675,UK
+CUST0035,Jenna Pittman,Other,57 yrs,Delhi,2021-12-18,2025-09-22,46353,1.0,tammymcclure@gmail.com,(646)969-7212x651,
+CUST0036,Chad Kim,Female,Age is 52 years,Bhopal,2025-08-27,2026-04-14,₹22051,,wrong_email.com,001-926-613-2783x377,Canada
+CUST0037,Michelle Rivera MD,Female,,Indore,2023-02-18,2025-12-09,49961,,blairgeoffrey@hotmail.com,557-276-3912x56636,India
+CUST0038,Cindy Wright,Male,18 yrs,Indore,2021-06-23,2025-06-23,₹41206,2.0,carlos27@yahoo.com,001-157-549-9646,
+CUST0039,Sara Wise,Male,40 yrs,Indore,2024-05-09,2025-06-24,,4.0,susancarlson@hotmail.com,12345,
+CUST0040,Antonio Anderson,Other,34 yrs,Delhi,2025-01-25,2024-06-16,13824,5.0,christopherhunt@cameron.info,(119)519-8809x655,UK
+CUST0041,Michelle Sawyer,,29 yrs,Chennai,2026-01-30,2025-08-02,,4.0,douglasblanchard@diaz.com,466.905.6097x84416,India
+CUST0042,,Female,34 yrs,Chennai,2025-04-18,2024-06-14,₹31858,,bbarnett@yahoo.com,12345,India
+CUST0043,Terry Werner,,Age is 56 years,,2024-01-11,2024-10-31,,2.0,vbowman@griffin-lambert.com,12345,India
+CUST0044,Jessica Medina,Male,29,Chennai,2022-04-25,2025-03-24,7110,4.0,amberavila@perkins.net,666.847.9017x5550,
+CUST0045,Ashley Garcia,Female,,Indore,2024-11-14,2025-12-18,₹9179,1.0,adamsjohn@yahoo.com,(863)535-9280,India
+CUST0046,Steven Mcdowell,Female,,Pune,2024-02-18,2026-03-08,₹4872,1.0,wrong_email.com,242.301.8682x00372,
+CUST0047,Charles Brewer,Other,Age is 55 years,Pune,2022-01-28,2026-02-10,,3.0,jefferymccarthy@yahoo.com,(949)511-4383x516,Canada
+CUST0048,Mary Arnold,Other,Age is 20 years,Delhi,2024-01-31,2025-08-19,5073,4.0,dsmith@yahoo.com,886-095-7311x27151,India
+CUST0049,Tara Rodriguez,Male,27,Chennai,2023-06-28,,36938,1.0,jamiebennett@hotmail.com,+1-595-336-7396x8495,India
+CUST0050,Kristin Thornton,Male,,Indore,2025-09-25,2024-05-28,9640,5.0,wrong_email.com,162-749-6312,
+CUST0051,Patrick Bullock,Male,32 yrs,Delhi,2025-09-02,2026-02-22,,4.0,vflores@powell-arnold.com,626.863.1917,India
+CUST0052,Victor Williams,Male,Age is 51 years,Pune,2025-01-29,2025-01-14,14402,2.0,lscott@fitzgerald-glass.com,12345,
+CUST0053,Anna King,Male,,,2023-02-23,2025-10-22,,3.0,petersontiffany@martin.com,12345,Canada
+CUST0054,Ms. Amy Grant,Male,Age is 33 years,Bhopal,2021-06-12,2025-05-16,,4.0,wrong_email.com,196-481-2744,India
+CUST0055,Tyler Thomas,Other,Age is 49 years,Delhi,2022-02-01,2026-03-03,₹27270,,caldwellcourtney@riley-stephens.com,(698)459-9220,India
+CUST0056,Tammy Ruiz,Other,Age is 26 years,Chennai,2024-04-24,2026-03-18,,,garyprice@trevino.org,(226)184-9449,USA
+CUST0057,,Other,42,Pune,2022-05-22,,₹24809,4.0,wrong_email.com,384-021-9296x11014,
+CUST0058,Gina Rodriguez,Other,58,Indore,2021-08-31,2025-05-03,₹13510,3.0,samanthacole@hines.com,(793)840-6471,USA
+CUST0059,Johnathan Howard,Female,Age is 24 years,Pune,2023-12-20,2024-06-04,,4.0,timothylee@yahoo.com,1629697514,India
+CUST0060,Stephanie Lyons,Female,21 yrs,Pune,2025-02-10,2024-05-10,17895,1.0,rmeyer@wood-smith.biz,001-478-622-3652,Canada
+CUST0061,Ronnie Day,Female,Age is 58 years,,2026-01-18,2024-12-05,,5.0,belldawn@yahoo.com,462.401.6130x3640,India
+CUST0062,Jose Palmer,Female,30 yrs,Delhi,2023-01-23,2024-08-17,45553,1.0,williamsgerald@hughes.biz,(649)701-8529,India
+CUST0063,Janet Rodriguez,Male,18,,2021-05-14,2026-01-22,22350,3.0,rmiller@yahoo.com,607-507-3629,Canada
+CUST0064,Larry Hunt,Male,Age is 40 years,Mumbai,2022-11-11,2025-07-04,40246,5.0,wrong_email.com,12345,UK
+CUST0065,Darlene Logan,Female,60,Chennai,2023-07-31,2024-05-15,₹21149,,wrong_email.com,135.857.7864,Canada
+CUST0066,Carolyn Mcintosh,Other,,,2024-06-03,2024-12-04,₹13433,3.0,morgan38@leblanc.com,(767)040-5896x433,Canada
+CUST0067,Alexandra Rodriguez,Male,,,2023-09-04,2024-11-20,₹8153,3.0,hmichael@hebert.info,12345,Canada
+CUST0068,Jose Long,Male,58 yrs,Bhopal,2021-07-17,2025-03-09,₹38271,2.0,colinlin@camacho-roberts.info,702.928.8515,India
+CUST0069,Daniel Kim,Male,44,Pune,2024-11-07,2024-06-01,,5.0,guerravicki@hotmail.com,(581)077-5111x1187,
+CUST0070,Olivia Brewer,Other,35 yrs,Bhopal,2023-03-17,,,1.0,martintheresa@gmail.com,(468)851-6985x07864,Canada
+CUST0071,,Female,Age is 26 years,Indore,2021-12-06,2025-07-03,,4.0,kimlynn@yahoo.com,123-653-2499,USA
+CUST0072,Faith Townsend,,36 yrs,,2023-09-16,2025-03-07,12238,2.0,baileymatthew@guzman.com,931.817.9075,UK
+CUST0073,Shaun Chandler,Other,,,2023-11-10,2024-05-25,15629,3.0,xgordon@bell-james.com,706.852.7743x7234,India
+CUST0074,Victoria Hughes,,,Indore,2024-10-08,2026-03-07,,4.0,hector71@smith.com,201.370.2563,USA
+CUST0075,Ryan Wagner,Female,56 yrs,Pune,2023-01-15,2025-04-02,11554,1.0,robertsalinas@allen.net,12345,USA
+CUST0076,Brian Martinez,Female,19,Chennai,2022-05-26,2024-09-08,,5.0,lroberts@gmail.com,962-049-4671x115,India
+CUST0077,Shannon Taylor,Other,Age is 47 years,Pune,2024-03-14,2024-07-18,46148,2.0,wrong_email.com,+1-657-299-8619,USA
+CUST0078,Michele Freeman,Female,38,Mumbai,2024-06-18,2025-01-30,,1.0,tnguyen@hotmail.com,+1-807-937-4783,USA
+CUST0079,Brian Smith,Female,52,Indore,2021-12-09,2025-11-04,₹1394,2.0,kristen39@hotmail.com,(079)661-4534,UK
+CUST0080,Kimberly Owen,Female,34 yrs,,2023-07-20,2025-08-14,₹13339,2.0,whitekimberly@johnson-li.biz,001-971-289-4373,Canada
+CUST0081,Karla Baker,Other,Age is 60 years,,2026-01-13,2024-11-17,5672,3.0,wrong_email.com,001-373-370-8811x3544,USA
+CUST0082,Mary Day,Male,,,2023-12-15,2025-09-18,₹1890,,timothy35@gmail.com,+1-155-120-3383x29689,
+CUST0083,Elizabeth Gonzales,Female,Age is 26 years,,2026-03-27,2024-05-26,₹38887,2.0,dixoncindy@gmail.com,883.227.0876x916,
+CUST0084,Tracy Velazquez,,,Delhi,2022-01-07,2026-03-02,7745,,wrong_email.com,+1-231-250-8828x2156,USA
+CUST0085,Richard Hamilton,Male,30 yrs,Delhi,2023-09-16,2025-04-14,₹39734,3.0,kevinwillis@ali.net,155.718.8364x57470,USA
+CUST0086,Cindy Armstrong,Male,,Mumbai,2025-06-11,,,2.0,maxwell19@gmail.com,12345,Canada
+CUST0087,Joshua Lin,Male,30,Chennai,2022-08-31,,21655,4.0,tina37@yahoo.com,555-323-7740,UK
+CUST0088,Debbie Williams,Male,35 yrs,Indore,2022-01-18,2024-07-01,21229,1.0,marcbrown@yahoo.com,398-488-7664x1521,UK
+CUST0089,Stephen Ryan,,60 yrs,Mumbai,2025-08-06,2024-06-05,,2.0,kevinjohnson@gmail.com,+1-249-904-0448,India
+CUST0090,Eric Marks,Male,60 yrs,Mumbai,2023-10-27,2025-01-17,₹25608,3.0,ysmith@elliott.org,560-356-3989,India
+CUST0091,Jennifer Giles,Male,,Chennai,2025-07-09,2024-12-26,,,wrong_email.com,944.717.7483x752,
+CUST0092,Sarah Gamble,Female,49,Chennai,2024-11-19,2025-05-02,14209,1.0,rickyblake@hotmail.com,+1-798-721-7234,India
+CUST0093,John Gonzalez,Other,31 yrs,Chennai,2026-03-09,2024-11-04,,3.0,laura70@yahoo.com,(969)915-6896,India
+CUST0094,Brian Turner,Female,59,Bhopal,2025-06-04,2024-12-22,₹29515,2.0,wrong_email.com,(274)054-6821x2088,Canada
+CUST0095,Ashley Arnold,,18,Delhi,2022-11-10,2024-09-04,32083,4.0,kathychavez@quinn.biz,975.708.4504x741,USA
+CUST0096,Gina Trujillo,Male,25,Indore,2025-01-30,,,3.0,thomasjanet@reyes.com,588-793-7642x769,
+CUST0097,Joseph Smith,Female,,Pune,2025-08-05,2025-04-27,2470,3.0,richardjackson@nunez.org,219.225.2008x5235,
+CUST0098,Daniel Lewis,Other,Age is 40 years,,2022-04-19,2025-01-04,30488,5.0,ymorris@hotmail.com,+1-382-794-6556,Canada
+CUST0099,Donna Reyes,,31 yrs,,2022-05-24,2024-10-01,₹38587,3.0,brookscristian@reyes-meyer.net,(616)817-9095x92312,UK
+CUST0100,John Barton,Female,Age is 30 years,,2025-10-15,,₹33373,3.0,vsalazar@horn.com,275-011-6739x72769,
+CUST0101,Melissa Pierce,Other,Age is 34 years,,2024-10-21,2026-02-11,,,bradley50@mathis-sweeney.info,939-003-0556,India
+CUST0102,Annette Ramirez,Female,,Delhi,2025-11-16,2025-07-09,22437,4.0,john26@yahoo.com,001-089-271-6608x399,Canada
+CUST0103,Megan Peterson,,Age is 41 years,Delhi,2023-01-11,2026-01-29,38317,2.0,mitchelljulie@gmail.com,364-985-0333x474,Canada
+CUST0104,Raven Cross,Other,Age is 34 years,Chennai,2024-07-11,2025-08-19,39038,1.0,fisherkelly@gomez.org,397.734.6377x07504,USA
+CUST0105,William Williams,,29,,2025-04-05,2024-09-27,₹14476,2.0,amanda51@francis.com,12345,Canada
+CUST0106,Laura Figueroa,Other,32,Mumbai,2022-12-15,2025-01-18,10330,,wrong_email.com,552.629.8120,
+CUST0107,Jason Byrd,Male,,Mumbai,2022-06-08,2025-12-11,31202,1.0,ymays@gmail.com,117-871-8604x0582,Canada
+CUST0108,Kathleen Thomas,,,Bhopal,2022-07-18,2025-12-06,₹35150,4.0,matthewhorton@ponce.com,371-124-4195x165,Canada
+CUST0109,Steven Hunt,,32 yrs,Bhopal,2025-09-12,2025-03-31,33473,2.0,deancarolyn@patterson.com,+1-785-793-2493x54010,India
+CUST0110,Rhonda Lee,Female,,Pune,2025-07-15,2025-05-15,₹22068,1.0,eric25@hotmail.com,436-439-9986x03009,
+CUST0111,Jennifer Garrett,Female,Age is 50 years,Delhi,2024-05-26,2024-10-09,,4.0,wrong_email.com,+1-913-953-3027x63819,USA
+CUST0112,Glenn Carroll,,48 yrs,Indore,2024-10-11,2025-05-25,37769,2.0,leewilliam@murphy.info,(703)165-0524x820,UK
+CUST0113,Peter Garcia,Other,49 yrs,Indore,2022-08-08,2026-04-22,,3.0,samanthaochoa@hotmail.com,12345,USA
+CUST0114,Maxwell Scott Jr.,Other,,Delhi,2025-07-22,2026-01-25,,1.0,stephensscott@jennings.net,827-581-5756,USA
+CUST0115,Wayne Wagner,Female,35 yrs,,2023-01-29,2025-05-14,,1.0,jordan74@estrada.com,534.584.2787x1323,USA
+CUST0116,,Male,59,,2023-03-21,2025-05-02,₹26047,3.0,fgordon@gmail.com,634.817.6563,USA
+CUST0117,Katie Frazier,Male,40,Bhopal,2023-08-18,2024-09-29,35467,4.0,justin82@gmail.com,12345,India
+CUST0118,Ms. Katherine Stone,Other,35 yrs,Pune,2022-11-13,2024-12-13,₹4839,4.0,xgibbs@yahoo.com,486-308-5888x12107,UK
+CUST0119,Terry Moreno,Other,Age is 32 years,Bhopal,2023-02-25,2025-04-28,40692,5.0,jaclynkline@cox.net,+1-840-098-3155x58903,
+CUST0120,Crystal Patterson,,,Delhi,2023-12-05,2024-11-27,,4.0,alexander70@gmail.com,2206004821,
+CUST0121,Kaitlyn Lowery,Male,24,,2022-10-24,2025-06-06,27984,4.0,wrong_email.com,432.390.3881x466,
+CUST0122,Steven Duke,,Age is 30 years,Indore,2024-05-18,,16934,,thomasthomas@flores-wade.info,713-053-9549,
+CUST0123,Kimberly Small,Female,43 yrs,Indore,2025-08-08,2025-10-14,₹13211,3.0,amandamorgan@adams-lewis.info,692-126-2951,
+CUST0124,Ashley Taylor,Male,40 yrs,Mumbai,2021-05-31,2025-11-24,39576,5.0,todd37@jackson-miles.biz,100.551.4184x565,UK
+CUST0125,Nicholas Fitzgerald,Female,Age is 45 years,Pune,2022-12-16,2025-02-16,36809,2.0,kimberly59@martinez.net,12345,India
+CUST0126,Dennis Singh,Other,Age is 36 years,,2023-10-15,2024-07-22,8373,5.0,ysanchez@bailey-hamilton.com,+1-862-637-6722x142,
+CUST0127,James Stephens,Male,59 yrs,Mumbai,2021-07-20,2025-12-29,45908,4.0,turneramanda@hotmail.com,(181)187-7586x14099,UK
+CUST0128,Martin Norton,Male,22 yrs,Pune,2025-07-04,2025-02-14,,,joneskristen@jones.info,300.157.7836,USA
+CUST0129,Lisa Diaz,Male,20 yrs,Chennai,2022-10-14,2025-06-28,₹13917,1.0,anna66@gmail.com,671.869.4735,USA
+CUST0130,Joshua Martinez,Male,Age is 45 years,,2022-07-05,2026-04-21,8604,4.0,jerry05@crawford-miller.com,(806)360-1666x12838,India
+CUST0131,William Parsons,Other,33,Chennai,2023-09-25,2026-01-18,₹16851,1.0,jasmincox@gmail.com,417.415.8438x8832,
+CUST0132,Brian Wright,Other,35,Bhopal,2024-09-11,2025-02-17,₹10000,1.0,jennifer34@yahoo.com,12345,USA
+CUST0133,Melissa Parrish,Other,39 yrs,,2025-06-01,2025-11-23,₹32314,,rojasedward@hotmail.com,001-133-546-8801,USA
+CUST0134,Nathan Gutierrez,,23 yrs,,2022-03-21,2024-07-10,,5.0,gibsonmindy@yahoo.com,(342)076-8786,Canada
+CUST0135,Carl Daniels,Male,Age is 18 years,Delhi,2025-03-24,2026-04-11,,1.0,jessicaknight@levine.net,+1-775-645-1837x689,
+CUST0136,Jeremy Hancock,Other,51,Mumbai,2021-09-04,,29996,4.0,mathewyang@gmail.com,001-993-041-0322x07668,
+CUST0137,Shawna Garcia,,,Delhi,2021-06-11,2024-05-26,₹47313,3.0,shawpatrick@gmail.com,471-725-1123x069,India
+CUST0138,Christopher Sloan,Male,,Mumbai,2022-12-08,2025-04-07,17031,3.0,ejackson@preston.net,001-502-033-4652x65131,Canada
+CUST0139,Brian Park,Male,19,Bhopal,2022-12-22,2025-11-07,,,mbaker@malone-smith.biz,001-607-561-8900x2322,USA
+CUST0140,Stacey Hickman,Female,42,Chennai,2025-12-16,2026-02-22,₹38503,2.0,madisonpeck@hotmail.com,+1-525-704-4062x83489,Canada
+CUST0141,Beth Santiago,Female,37 yrs,Bhopal,2024-01-22,2024-05-23,₹2359,3.0,kristenfields@james-obrien.biz,001-218-543-1616x066,Canada
+CUST0142,Amanda Peters,Other,,Chennai,2023-10-15,2026-04-25,,3.0,leedebra@castro.com,(916)751-6015,Canada
+CUST0143,Christopher Miller,Other,,Mumbai,2023-01-06,2024-12-03,,3.0,levyjohn@hernandez.com,778-799-1327x3322,
+CUST0144,Brandy Brewer,,Age is 18 years,Chennai,2026-02-21,2024-09-20,,2.0,vglover@gmail.com,098-225-7253,Canada
+CUST0145,,Female,25,,2024-02-20,2025-10-26,,1.0,thomasowen@gmail.com,335.143.2621x220,Canada
+CUST0146,Melissa Dunlap,Other,Age is 39 years,Pune,2022-05-12,2026-05-05,₹30599,1.0,pruiz@yahoo.com,9054396274,Canada
+CUST0147,Stacey Stevens,Other,Age is 51 years,Pune,2021-05-13,2025-06-08,48301,3.0,richardsonbrian@clark-leach.com,+1-885-495-3268,India
+CUST0148,Daniel Brown,,Age is 49 years,Indore,2023-11-03,2025-01-18,16657,3.0,dowen@yahoo.com,+1-960-718-2571x876,UK
+CUST0149,Melissa Cox,,,Pune,2023-02-25,,,4.0,roseeric@olson.com,(846)225-6591x125,
+CUST0150,Timothy Fuller,Female,51,,2025-09-15,2024-08-16,1453,1.0,gregorytony@hotmail.com,(439)181-0199,UK
+CUST0151,Dr. Tom Baker Jr.,Other,52,Bhopal,2025-08-22,2025-01-09,₹29869,3.0,erikagomez@rowe.info,(348)319-8138,UK
+CUST0152,Scott Moran,Female,42,Indore,2022-12-19,2024-06-27,₹25367,5.0,abrooks@humphrey-jensen.org,459-303-2774x7019,India
+CUST0153,Michael Johnston,,50,Chennai,2023-12-07,2025-05-06,,2.0,sandrasanders@mack.com,733-501-5641,
+CUST0154,Travis Heath,Male,55,Indore,2025-11-14,2025-12-09,4219,5.0,tamaracooper@hotmail.com,+1-593-804-3307x46478,Canada
+CUST0155,Kathleen Gonzales,,57,,2024-05-05,2026-02-22,19412,,wrong_email.com,(440)976-9174,
+CUST0156,Jasmine Howell,Female,48,,2021-10-29,2025-05-21,47194,4.0,williamsrebecca@hotmail.com,9137270951,UK
+CUST0157,Megan Shields,Male,23 yrs,Mumbai,2023-11-18,2025-02-03,₹6988,3.0,john84@morgan.com,441.684.7550x27514,
+CUST0158,Rachel Cervantes,Female,Age is 50 years,Delhi,2022-08-05,2025-07-05,₹46422,3.0,youngkathleen@gray-ortega.com,012-233-4777x5384,USA
+CUST0159,Juan Craig,Female,33 yrs,Chennai,2026-01-21,2024-10-04,₹7920,4.0,mariathomas@jacobs.com,(781)779-4223,India
+CUST0160,David Taylor,Female,36 yrs,Bhopal,2023-01-15,2024-10-22,₹21498,5.0,lburnett@allen-case.com,001-612-515-2966x434,Canada
+CUST0161,Curtis Stuart,Female,,Bhopal,2023-03-17,2024-08-16,₹13809,5.0,vickimacias@gmail.com,12345,USA
+CUST0162,Chris Grant,Male,Age is 53 years,Delhi,2022-11-23,2025-09-23,,,johnstonrebecca@wright-vasquez.com,489-713-0832x3787,UK
+CUST0163,Elizabeth Montes,Female,36 yrs,Pune,2022-10-02,2025-04-23,32891,1.0,fcampbell@johnson-guerrero.org,713-567-9388x3954,
+CUST0164,Francisco Davis,Male,59,Indore,2021-05-30,2024-11-10,₹33019,5.0,christopher17@yahoo.com,(737)366-2661x2692,USA
+CUST0165,Travis Romero,Male,40,,2023-03-08,2024-08-20,3620,4.0,ibarron@gmail.com,12345,USA
+CUST0166,Mary Lewis,Other,Age is 43 years,Mumbai,2023-09-13,,34056,5.0,johnsonalexandra@rios-carroll.com,231.995.6442x10849,India
+CUST0167,Emma Ortiz,Male,51 yrs,Chennai,2022-04-16,2025-08-07,₹22513,5.0,adamflores@gmail.com,713-554-3504,Canada
+CUST0168,Stanley Moore,Male,31 yrs,Indore,2022-04-05,2025-03-19,₹1380,,nturner@hotmail.com,631.624.1846,USA
+CUST0169,Annette Allen,,,Chennai,2023-06-23,2024-11-15,49074,4.0,ggonzales@yahoo.com,12345,Canada
+CUST0170,Robert Rangel,Female,,,2024-01-31,2024-09-03,,4.0,michaelmorris@leblanc.net,(603)938-0366x9677,UK
+CUST0171,Michael Monroe,,46,Delhi,2023-06-08,2025-05-16,,2.0,ysolis@arnold.info,+1-574-464-3314x1146,
+CUST0172,Michelle Davis,Female,Age is 36 years,Bhopal,2022-05-10,2025-04-27,21631,3.0,ubray@gmail.com,12345,UK
+CUST0173,John Francis,Female,52 yrs,,2022-02-26,2024-11-16,4390,3.0,npatel@osborn.biz,(734)997-8822x1203,USA
+CUST0174,Patrick Lawson,Male,36,Indore,2025-04-25,,₹47886,3.0,huertalogan@mathews-sloan.com,001-186-495-3613x01166,UK
+CUST0175,Richard Oneill,Male,31 yrs,Mumbai,2025-08-15,2025-09-26,,1.0,martindavid@rodriguez.net,001-479-933-3268x1907,USA
+CUST0176,Joseph Porter,,Age is 45 years,Delhi,2023-08-05,2025-08-23,,3.0,jasongates@yahoo.com,12345,Canada
+CUST0177,Billy Barnes,,,Bhopal,2023-02-25,2024-10-24,,4.0,wrong_email.com,557.033.2694,
+CUST0178,Elizabeth Gay,Female,,Bhopal,2023-03-08,2026-02-12,,3.0,amanda24@allen.com,979-235-2824x64800,UK
+CUST0179,Sarah Davis,,Age is 54 years,Mumbai,2023-11-06,,,,wrong_email.com,(844)122-7002x394,UK
+CUST0180,Linda Robertson,Male,,Bhopal,2023-11-12,2025-01-06,₹13202,3.0,oharvey@gmail.com,439-424-7094,India
+CUST0181,Heather Long,Other,,Bhopal,2026-01-09,2025-07-06,,5.0,wrong_email.com,+1-772-446-4259x98090,UK
+CUST0182,Juan Patel,Female,,Indore,2021-05-10,2025-03-09,37207,2.0,robinsontammy@williams-sanders.info,370.681.2080x73412,Canada
+CUST0183,Jonathon Martinez,Female,60 yrs,Chennai,2025-08-21,2024-05-06,,2.0,dunnjessica@goodwin-mccarthy.net,001-840-267-2442,Canada
+CUST0184,Todd Murray,Male,Age is 23 years,Delhi,2024-05-02,2026-01-17,,5.0,kathleengonzalez@gmail.com,001-669-946-8356x54916,UK
+CUST0185,Gregory Fields,,42 yrs,Bhopal,2022-07-15,2025-01-13,₹7583,2.0,brownalexandra@hotmail.com,001-861-045-4074x6061,UK
+CUST0186,Thomas Stewart,Other,,Indore,2024-12-16,2026-05-01,13326,1.0,norman79@yahoo.com,001-784-301-3515,
+CUST0187,Mary Snyder,Female,Age is 57 years,Indore,2025-11-30,2025-10-18,₹16344,5.0,emiller@young.com,001-009-832-6321,USA
+CUST0188,Emily Prince,Other,Age is 38 years,Indore,2021-12-08,2025-07-17,₹34934,4.0,wrong_email.com,001-515-717-7724,
+CUST0189,Ashley Simmons,Male,19,Mumbai,2024-08-27,2026-03-11,3655,3.0,hughesbrian@gmail.com,(967)996-9702,UK
+CUST0190,Sarah Jenkins,,54,Mumbai,2023-01-29,2026-03-06,,5.0,martinezjeremiah@jones.net,001-216-234-7460,USA
+CUST0191,Jay Christian,Female,,Indore,2023-10-28,2025-11-03,,2.0,natashacannon@castro.com,12345,UK
+CUST0192,Katelyn Bush,,31,,2021-08-24,,,5.0,aprilvelasquez@hotmail.com,+1-454-986-4801x36700,Canada
+CUST0193,Cindy Holmes,Other,31 yrs,Delhi,2023-10-19,2026-04-26,25842,,christina04@mendez.biz,844.627.2029,India
+CUST0194,Jason Ramirez,,53,Mumbai,2022-07-25,2025-04-12,,2.0,john14@wiggins.biz,4889871484,
+CUST0195,Jasmine Blake,,26,Pune,2025-12-10,2025-08-03,3477,2.0,codyrichmond@hotmail.com,+1-338-580-4966x9587,India
+CUST0196,Erin Robinson,Female,Age is 51 years,Mumbai,2025-12-19,2025-08-10,,5.0,marysmith@gmail.com,(836)943-1987,Canada
+CUST0197,Mr. Steve Garcia,,18,Bhopal,2021-09-25,2024-11-01,₹12454,3.0,crodriguez@taylor.com,750.671.0988,
+CUST0198,Brian Kelly,Male,57,Mumbai,2023-11-15,2025-04-13,₹44769,1.0,douglasshort@hotmail.com,001-255-333-7796x6667,Canada
+CUST0199,Cassandra Dean,Male,42,,2022-04-05,2026-02-10,5985,4.0,sarahfrazier@gmail.com,+1-552-574-6972x18400,UK
+CUST0200,Joshua Brown,,21,Bhopal,2023-12-23,2024-08-10,2175,4.0,ravenrosario@gmail.com,575-039-1974x90580,India
+CUST0201,,Other,36 yrs,Delhi,2022-07-15,,29215,,wrong_email.com,12345,Canada
+CUST0202,Nicholas Fernandez,Other,44,Pune,2023-05-07,2026-01-19,45114,2.0,davisvictoria@hotmail.com,+1-073-409-5922x1098,Canada
+CUST0203,Howard Smith,Male,,,2023-03-31,2026-03-19,,,michaelwright@jarvis-hale.com,837-465-3794x2741,UK
+CUST0204,Debra Carter,,,Chennai,2021-11-03,2024-05-21,35895,5.0,wrong_email.com,001-240-288-3544,
+CUST0205,Scott Larson,Male,,Mumbai,2023-06-15,2026-01-05,₹2648,4.0,pcordova@cooper-klein.com,104-911-8285,India
+CUST0206,Diane Travis,Male,53 yrs,Indore,2022-12-05,2025-06-03,16700,1.0,walkercorey@hill-clark.net,12345,USA
+CUST0207,Amanda Berry,,,Chennai,2024-11-05,2025-03-31,₹13598,3.0,mullinsrebecca@jones-marsh.com,001-893-522-7880x8946,
+CUST0208,,Other,28 yrs,Delhi,2022-07-12,,₹14060,5.0,shannonamanda@yahoo.com,342-854-6617,
+CUST0209,Sherry Morton,,35,Pune,2023-08-30,2025-03-09,23833,4.0,taylorritter@martin-burns.com,(674)091-6700x32589,USA
+CUST0210,Katie Curtis,Female,Age is 20 years,,2025-12-06,2025-09-11,₹37236,5.0,folson@gmail.com,001-774-430-2858x0514,India
+CUST0211,Alexis Allen,Male,Age is 48 years,Bhopal,2025-05-09,2026-03-17,7053,5.0,fieldsrobert@gmail.com,001-170-264-9452,
+CUST0212,Jennifer James,Male,Age is 32 years,Bhopal,2025-07-29,2026-03-18,23952,2.0,cunninghamjennifer@yahoo.com,+1-518-734-8205x86851,USA
+CUST0213,Jean Jordan,Male,Age is 58 years,,2022-07-13,2025-12-31,₹3398,1.0,albert27@yahoo.com,001-835-256-8896x2168,
+CUST0214,Amy Stafford,Female,50 yrs,Delhi,2025-11-11,2026-04-07,,3.0,howardsara@richardson.com,0176998194,Canada
+CUST0215,Katherine Mullins,Male,39,Indore,2022-04-03,2025-01-22,26280,3.0,nielsenmichelle@hotmail.com,001-295-266-4950,USA
+CUST0216,Michael Pierce,Female,Age is 58 years,Bhopal,2022-07-01,2024-08-13,₹46680,,wrong_email.com,999.898.4489x624,Canada
+CUST0217,Anthony Cain,Male,60,Mumbai,2024-01-26,2025-06-28,,1.0,garciadavid@baker.org,4182310728,India
+CUST0218,Rose Torres,Other,Age is 38 years,Bhopal,2025-05-15,2025-09-20,₹2719,1.0,danieljones@yahoo.com,(404)949-4088x9986,India
+CUST0219,Laura Gibson,Other,45 yrs,Bhopal,2024-01-06,,₹9943,5.0,raymond45@ortega.net,(547)126-5296x5599,UK
+CUST0220,Anne Richmond,Other,33,Delhi,2022-09-20,2024-07-23,,4.0,wrong_email.com,001-543-521-1157x169,India
+CUST0221,Laura Hernandez,Other,Age is 27 years,Indore,2026-03-12,2024-09-13,25472,1.0,wrong_email.com,+1-679-291-8180x62567,India
+CUST0222,Angela Diaz,,59,Mumbai,2022-03-27,2025-11-13,₹15341,4.0,alancardenas@johnson.com,8749851802,
+CUST0223,Jaime Mooney,,50 yrs,Pune,2025-06-04,2024-07-15,44084,3.0,sarahgonzalez@wolfe.info,017-849-3652x081,India
+CUST0224,Robert Fisher,Other,58,,2021-09-08,2025-12-20,₹37764,1.0,amysandoval@potter.com,940.287.4697x160,India
+CUST0225,Ann Henson,,48,Indore,2023-10-30,2025-05-27,₹20904,2.0,stewartkathleen@gould-kelly.info,897-676-1140,USA
+CUST0226,Tanner Lee,Female,50 yrs,Pune,2023-04-18,2026-03-02,12311,1.0,fernandezwendy@yahoo.com,12345,Canada
+CUST0227,Sylvia Alexander PhD,Female,Age is 40 years,Bhopal,2025-08-01,2025-06-15,,,sullivanjohn@oconnor.com,+1-256-630-5750x79997,USA
+CUST0228,Melissa Mack,Male,27 yrs,Bhopal,2026-03-14,2024-06-07,,5.0,wwang@gmail.com,(596)481-9161x641,UK
+CUST0229,Marcia Nelson,,,Delhi,2022-10-14,2025-04-25,3095,5.0,shirleyrodriguez@hotmail.com,368-431-5409x33798,
+CUST0230,Taylor Harris,Female,Age is 30 years,Delhi,2024-07-27,2025-03-23,7301,1.0,nathaniel71@hart.com,332-730-5031,India
+CUST0231,Billy Hernandez,,24,,2022-01-09,2025-08-02,₹30191,2.0,qwang@taylor.com,12345,UK
+CUST0232,Aaron Fleming,Male,,Indore,2022-04-29,2025-08-06,13848,4.0,whitesean@carrillo.info,080-107-3310,India
+CUST0233,,Female,,Indore,2025-03-14,2024-07-09,₹6649,2.0,shawnjordan@barton.com,437-130-7457,UK
+CUST0234,Christopher Smith,,44,Chennai,2025-04-02,2024-07-31,,5.0,kevin31@kim.com,378.764.7736x850,
+CUST0235,Samuel Scott,Male,40 yrs,,2023-12-25,2025-10-09,₹21306,4.0,smithdiamond@yahoo.com,240-142-8573,UK
+CUST0236,Stephanie Johnson,,Age is 44 years,Chennai,2024-08-22,2026-03-29,₹40752,4.0,cooksteven@hotmail.com,001-060-175-4215x4735,India
+CUST0237,Alice Kelley,Male,,Pune,2024-07-15,2025-07-05,43759,4.0,conradsuzanne@bass.net,767.197.5998x949,USA
+CUST0238,Lisa Ford,Other,Age is 28 years,Delhi,2021-09-19,2024-10-08,₹23685,2.0,wvelasquez@osborne.com,+1-396-908-8188x55794,Canada
+CUST0239,Ashley Carey,,28,Pune,2024-03-29,2025-08-27,43049,2.0,wrong_email.com,001-806-066-7306x6147,India
+CUST0240,Ian Smith,Other,40 yrs,Bhopal,2023-02-06,2026-04-07,,1.0,jasmineberg@thomas-miles.com,647-035-3275x0251,Canada
+CUST0241,Evan Jordan,Female,52,Chennai,2021-09-21,2024-09-03,12346,5.0,karen16@bailey.com,(496)345-0138,Canada
+CUST0242,Kevin Watson,Female,Age is 32 years,Delhi,2026-01-27,2025-05-10,,5.0,richardwright@gill-smith.net,(154)438-2139,Canada
+CUST0243,Emma Pace,Other,57 yrs,Mumbai,2022-12-04,2026-03-01,45403,4.0,morgansanchez@gmail.com,(049)896-6148x9348,India
+CUST0244,James Johnson,Female,,Indore,2025-10-05,2025-10-03,₹27890,,guerreroerica@moore-conley.com,(685)713-5918x8501,UK
+CUST0245,Phillip Soto,Other,,,2025-01-21,2025-04-13,42218,5.0,wrong_email.com,277.840.2759,UK
+CUST0246,Peter Baxter,,38,Pune,2024-01-23,2025-05-01,33531,1.0,freyeric@novak.com,(451)265-0254x97076,USA
+CUST0247,Dr. Daniel Wilson II,Other,55,Indore,2021-12-20,2025-04-08,27860,3.0,kleinjanice@hernandez-fox.com,(253)953-5835x665,Canada
+CUST0248,Chelsea Robinson,Male,27 yrs,Indore,2022-02-01,2024-06-23,,4.0,hancockcynthia@yahoo.com,001-297-795-8514,USA
+CUST0249,Jeanne Olson,,Age is 60 years,Chennai,2025-08-26,2025-10-08,,2.0,martin33@robinson-massey.net,001-345-099-1935x3875,
+CUST0250,Shannon Roman,,,Chennai,2023-03-21,2024-08-04,₹6067,2.0,goodmanmichael@hotmail.com,823.908.1212,India
+CUST0251,Joel King,Female,,,2025-05-14,2026-04-12,₹8851,2.0,wrong_email.com,289-233-3436,Canada
+CUST0252,David Mueller,Other,19 yrs,Bhopal,2022-02-21,2024-10-06,3759,2.0,diana25@shannon.com,159.193.1513,Canada
+CUST0253,Savannah Griffin,Female,,Chennai,2022-06-05,2025-08-25,,3.0,imathis@yahoo.com,(524)273-8875x3680,USA
+CUST0254,Reginald Smith,Other,Age is 24 years,Mumbai,2021-12-05,2025-06-22,₹26785,5.0,shane60@hansen.org,001-528-316-5854x2591,USA
+CUST0255,Joseph Salazar,,31 yrs,Chennai,2023-01-13,2025-01-17,₹44910,1.0,omccoy@yahoo.com,180.045.7704x02940,India
+CUST0256,Kathy Lee,,,Mumbai,2025-01-15,2024-07-07,14420,2.0,aliciataylor@ortiz-hughes.com,(289)072-7792x43458,
+CUST0257,Taylor Anderson,Male,,Bhopal,2024-09-05,2025-09-30,₹31625,2.0,omar32@lane-gamble.com,(577)521-2031,Canada
+CUST0258,Christine Skinner,Female,29 yrs,Delhi,2024-05-31,2024-12-02,10444,1.0,kwhite@moore.net,482.523.7605x0189,USA
+CUST0259,Kathleen Kennedy,Other,Age is 48 years,Pune,2024-10-22,2025-03-25,,2.0,omunoz@scott-bennett.net,831.785.2738,USA
+CUST0260,Stacy Bautista,Female,45,Mumbai,2025-04-29,2025-05-11,,5.0,seanthomas@hotmail.com,912-089-2928,UK
+CUST0261,Rodney May,Other,40 yrs,Mumbai,2022-07-01,2026-03-16,₹12140,,thomaswarren@rose-ho.com,972.516.5914x0121,USA
+CUST0262,Gary Snyder,Other,42,Chennai,2026-01-04,2024-07-07,,5.0,hendersondeborah@yahoo.com,(450)482-0881x350,
+CUST0263,Jamie Vazquez,Female,46 yrs,Indore,2023-12-07,2024-07-07,,3.0,jimenezsandra@yahoo.com,(851)702-1577x284,India
+CUST0264,Jessica Cole,Male,28 yrs,Chennai,2023-05-03,2025-04-06,₹45072,3.0,hparker@hernandez.org,196-382-0961x0960,UK
+CUST0265,Jon Brown,,,Indore,2022-09-28,2025-01-21,₹28552,1.0,james26@wilson.net,089.269.2565x844,UK
+CUST0266,Ross Schmidt,Female,22 yrs,Bhopal,2024-08-13,,34291,2.0,wrong_email.com,652-191-5053,India
+CUST0267,Ryan Ford,Female,Age is 22 years,Indore,2025-06-16,2024-12-18,30733,,eatondave@fox.info,(201)364-5121,India
+CUST0268,George Ramirez,,45,Indore,2024-12-09,2024-09-10,₹13043,4.0,wchristian@schultz-baker.com,+1-512-257-1278x97290,Canada
+CUST0269,Angela Wilkerson,Male,,,2024-08-08,2025-02-06,₹7724,4.0,wrong_email.com,5680546323,Canada
+CUST0270,,Male,,Bhopal,2023-02-08,2024-07-23,,2.0,jaredwilkins@pollard-lawrence.com,(272)915-3492x652,UK
+CUST0271,Emily Miller,Other,18,Mumbai,2023-07-14,2024-09-23,₹12075,2.0,vwalker@townsend.com,001-333-229-0843x828,USA
+CUST0272,Alexandra Shah,,,Mumbai,2025-09-23,2025-01-10,37936,1.0,dawsonjonathan@diaz-rowland.com,4442500480,USA
+CUST0273,Christine Salinas,,Age is 28 years,Pune,2024-09-02,2025-02-07,,1.0,vramos@hotmail.com,+1-655-393-2885x489,USA
+CUST0274,Wesley Davis,Other,,,2021-12-04,2025-09-02,,1.0,ekramer@boyle.com,+1-650-129-4835x2801,
+CUST0275,,,25,Mumbai,2022-01-13,2026-05-06,37100,2.0,tammywood@gmail.com,001-764-172-3052x615,India
+CUST0276,Mark Watson,Other,,,2023-12-08,2024-11-29,₹43480,5.0,brittanywallace@gmail.com,994.545.9395,UK
+CUST0277,Melissa Ball,,,Pune,2024-04-26,2024-12-24,₹27899,1.0,robert61@yahoo.com,12345,UK
+CUST0278,Isaiah Franklin,Male,34 yrs,Delhi,2024-10-17,2025-06-19,,,billy94@myers-tucker.com,282-677-4966x55735,India
+CUST0279,James Jones,Other,18,Delhi,2025-11-14,2024-10-25,₹34213,,denisewilliamson@gmail.com,12345,Canada
+CUST0280,Grace Martinez,Other,46,Chennai,2024-11-17,2025-11-09,3180,3.0,garrettkatherine@gmail.com,613.683.7495x94793,UK
+CUST0281,Bruce Wilson,,30 yrs,Pune,2025-08-21,2025-09-14,49235,4.0,levykelly@dennis.net,001-922-865-1223x6216,UK
+CUST0282,Katie Andrews,Female,,Delhi,2025-08-16,,29863,3.0,dunncynthia@hotmail.com,880-376-3294,UK
+CUST0283,Douglas Willis,Female,,,2021-05-09,2025-11-02,,3.0,richard22@hotmail.com,716-206-5632x1431,USA
+CUST0284,Derrick Smith,Other,,Bhopal,2023-08-26,2025-09-06,13382,2.0,amyyu@yahoo.com,+1-843-747-4570x155,
+CUST0285,Edward Payne,,50 yrs,Bhopal,2021-08-02,2026-01-18,,3.0,webberic@hahn.org,212.075.4178x72477,UK
+CUST0286,Matthew Jackson,Male,51,Delhi,2023-07-22,2024-09-25,,,flemingjames@yahoo.com,(085)599-2901x895,UK
+CUST0287,Rebecca Kelly,Other,19,Bhopal,2023-12-01,2025-03-13,₹5832,3.0,adamslisa@gmail.com,7756969868,USA
+CUST0288,Jennifer Thomas,Male,54,Delhi,2024-07-11,2025-12-06,,1.0,sarahwatkins@jones-mcdowell.com,+1-512-197-7613x00424,
+CUST0289,Shari Howard,Male,60,,2024-05-23,2026-01-31,,5.0,rthomas@hotmail.com,067-212-2891x27434,
+CUST0290,Lisa Harmon,,30,Indore,2024-10-29,2026-04-24,,4.0,kimberly35@jones-hill.net,521.072.6551x315,USA
+CUST0291,David Lewis,Male,,Bhopal,2023-04-12,,₹12199,4.0,jonathan28@davis-watts.com,+1-106-389-3311x324,Canada
+CUST0292,Roger Gonzalez,Female,Age is 50 years,Indore,2024-10-04,2026-04-17,19496,1.0,selliott@yahoo.com,030.746.9005,UK
+CUST0293,Jacob Johnson,Female,31 yrs,Mumbai,2023-09-01,2025-12-04,₹27083,5.0,lucaszamora@gmail.com,001-431-963-0659x238,UK
+CUST0294,Gary Mercer,Female,,Indore,2022-08-25,2025-01-04,,,nicole80@hotmail.com,001-804-806-3437x801,USA
+CUST0295,Victoria Davies,,45,Pune,2025-05-18,2026-01-19,₹29342,2.0,moorebryan@yahoo.com,590.536.6143x681,
+CUST0296,Frank Williams,Male,,Indore,2025-10-13,2024-11-08,31947,,erik26@lopez.com,001-196-746-1012x99092,
+CUST0297,Lawrence Moore,,,Delhi,2024-04-14,2026-03-22,30026,2.0,lisadavis@gmail.com,12345,USA
+CUST0298,David Drake,Other,52 yrs,Chennai,2024-07-04,2026-02-15,,5.0,miranda27@yahoo.com,001-334-480-4468x73344,UK
+CUST0299,Erin Ayala,Other,29,Pune,2021-10-04,2025-04-13,₹29605,,qthomas@hotmail.com,12345,India
+CUST0300,Danny Ortiz,,59,Indore,2023-10-15,2025-01-28,40757,2.0,williamcampbell@frank.com,12345,
+CUST0301,Kenneth Nolan,Male,24,Bhopal,2022-09-27,2024-05-18,₹44219,5.0,edwinnicholson@hotmail.com,244-384-3845,Canada
+CUST0302,Seth Villanueva,Other,Age is 33 years,Bhopal,2025-05-17,2026-02-13,,2.0,tbrown@smith.com,12345,USA
+CUST0303,Lindsey Salinas,,56 yrs,Mumbai,2023-05-11,2026-02-19,,,ctrevino@hotmail.com,+1-047-882-6332x58964,India
+CUST0304,Christina Jennings,,48 yrs,Pune,2023-07-23,2025-07-15,12313,5.0,danny11@cook.com,658-752-3743x43751,India
+CUST0305,Patricia Williams,Other,44 yrs,,2022-08-09,2025-05-28,,1.0,qfernandez@hotmail.com,(006)653-9092x424,India
+CUST0306,Maria Robinson,,45 yrs,Pune,2025-10-07,2024-06-06,,2.0,gerald08@hotmail.com,293-573-7068x045,Canada
+CUST0307,Stephen Jones,Male,42,Bhopal,2023-12-04,2025-07-26,,3.0,garciakristina@yahoo.com,167.942.2829x977,Canada
+CUST0308,Riley Wu,,Age is 46 years,Mumbai,2022-02-02,2025-06-11,9378,1.0,julie68@norman.biz,261.846.6015x89625,
+CUST0309,Kelly Miller,Female,28,Pune,2024-09-07,2025-06-16,₹16738,3.0,mary37@andrews.com,001-113-119-2658x96048,UK
+CUST0310,Jamie Boone,,,Pune,2021-09-08,2026-03-19,₹28885,4.0,evan73@yahoo.com,001-526-445-6173x211,UK
+CUST0311,Tammy Clark,Female,47,Bhopal,2024-06-07,2025-01-04,,2.0,annelopez@gmail.com,001-199-092-0754x88279,UK
+CUST0312,Brenda Lucas,Male,Age is 23 years,Bhopal,2023-05-30,2025-08-10,₹1240,3.0,connierice@potter-valencia.com,(139)075-6421,Canada
+CUST0313,Mrs. Latasha Collins,,24 yrs,Indore,2024-09-20,2025-08-23,4509,,obrienbeth@gmail.com,515.004.0758x4162,Canada
+CUST0314,Robert Hayden,Other,44,Indore,2026-03-04,,₹35005,5.0,kylie21@potter.biz,+1-907-881-6055x501,UK
+CUST0315,Jeffrey Calhoun,Female,Age is 37 years,Pune,2022-12-23,2024-10-10,,3.0,ztucker@sandoval-glover.com,858-586-9081x806,
+CUST0316,Jonathan Jones,Female,47,,2023-01-30,2024-06-30,₹31941,5.0,mgray@hotmail.com,667-129-2951,
+CUST0317,Richard Hall,Other,,Mumbai,2022-05-26,2025-07-18,,2.0,haydenkelsey@foster.com,001-048-648-3698x169,UK
+CUST0318,Jesse Wilkerson,Male,22 yrs,Indore,2024-05-08,2025-09-17,₹49600,,george86@anderson-gomez.org,001-667-187-9557x124,USA
+CUST0319,Daniel Gomez,Female,56 yrs,,2026-01-02,2025-12-29,6768,3.0,wrong_email.com,001-208-524-4090,Canada
+CUST0320,Rhonda Werner,,43,Chennai,2024-07-30,2024-05-14,37993,5.0,phillipsmith@yahoo.com,(731)648-0440x48659,India
+CUST0321,Shirley Harrison,Male,19 yrs,Chennai,2022-05-13,2025-11-15,,3.0,deborah02@bartlett.com,734-650-9759x1267,India
+CUST0322,Michael Owen,Other,25,Delhi,2024-03-11,2025-08-22,,5.0,nanderson@gmail.com,(563)261-5092,UK
+CUST0323,,Other,,,2022-11-13,2026-01-23,5496,2.0,jasonhopkins@hotmail.com,(992)284-1721x651,UK
+CUST0324,Mr. Michael Jones III,,Age is 46 years,Pune,2023-06-20,2025-07-08,14499,4.0,robert11@green.net,+1-483-890-3963x72384,
+CUST0325,Andrea Thompson,Other,Age is 34 years,Bhopal,2024-06-27,,,2.0,kevinkennedy@gmail.com,+1-099-781-7972,USA
+CUST0326,,,29 yrs,Chennai,2023-10-08,2024-10-22,₹25800,5.0,pmendoza@yahoo.com,603-569-7477x299,India
+CUST0327,Melissa Collins,Female,41,Chennai,2022-11-27,2025-03-22,₹38119,,gcunningham@stanley.biz,+1-410-901-7990x1871,India
+CUST0328,Joseph Brown,,,Indore,2024-08-27,,,2.0,davisrobin@yahoo.com,(799)284-2897x008,USA
+CUST0329,David Nelson,,22,Bhopal,2022-02-20,2024-10-28,36148,2.0,gibsonelizabeth@hotmail.com,001-155-895-9921,India
+CUST0330,Cody Payne,Other,,Chennai,2023-01-03,2025-11-18,24449,4.0,wrong_email.com,12345,Canada
+CUST0331,Samantha Wright,Female,,Pune,2022-11-21,2025-06-27,₹32477,2.0,stacie21@yahoo.com,+1-476-713-1242x2903,
+CUST0332,Katherine Perkins,Female,Age is 56 years,,2022-09-21,2026-04-28,30131,2.0,wrong_email.com,536-733-6697x6227,UK
+CUST0333,Willie Carroll,Other,,Pune,2023-11-07,,,2.0,alvarezjill@yahoo.com,9005754425,Canada
+CUST0334,Karen Barnes,Other,20 yrs,Indore,2023-11-17,2024-11-19,,3.0,williamsjames@brown.info,8763095037,UK
+CUST0335,Laura Wood,Other,40,Chennai,2023-04-30,2026-05-01,₹12096,2.0,cookkenneth@yahoo.com,+1-378-541-3288,USA
+CUST0336,Robert Cunningham,Other,,Chennai,2024-05-03,2024-08-17,23747,3.0,martin42@hotmail.com,001-571-787-8104x8972,UK
+CUST0337,Dustin Sanchez,,54,,2022-08-14,2025-12-21,6408,3.0,tiffanykerr@mcdowell-smith.com,252.999.3265,
+CUST0338,Kyle Mayo,Other,37,Indore,2024-05-12,2025-02-14,1365,4.0,cbailey@gmail.com,992.823.6497,
+CUST0339,Brandi Sosa,Other,Age is 55 years,Mumbai,2025-10-14,2024-10-01,₹31575,,suttondavid@yahoo.com,(164)734-9583,USA
+CUST0340,Michael Anderson,Male,41,Pune,2025-09-30,2026-02-14,₹8479,1.0,rebecca24@yahoo.com,807-527-9837,India
+CUST0341,Rachel Smith,,Age is 55 years,Mumbai,2023-05-29,2025-11-24,29236,5.0,nicole44@vance-quinn.com,001-325-197-5265x136,UK
+CUST0342,Micheal Johnson,Other,38 yrs,Mumbai,2021-08-21,2024-09-13,,3.0,gregorymoore@hotmail.com,(281)182-2349x8457,Canada
+CUST0343,Richard Christensen,Female,Age is 24 years,Delhi,2022-11-30,2024-12-22,₹34373,3.0,jamesramirez@dodson.com,001-311-470-3551x253,
+CUST0344,Jonathan Keller,,,Pune,2024-06-06,2025-05-21,₹12650,4.0,trush@gmail.com,001-986-486-0814x77104,USA
+CUST0345,Monica Oliver,,,Chennai,2025-07-25,2026-03-08,16606,3.0,freysusan@underwood.com,+1-950-267-7194,India
+CUST0346,Judith Cohen,,Age is 24 years,Pune,2024-06-01,,,1.0,robertbates@yahoo.com,745.424.6716,India
+CUST0347,Robert Poole,Male,,Chennai,2023-09-13,2025-05-04,₹40049,2.0,gward@gmail.com,003-986-7277,
+CUST0348,Richard Nelson,Female,54,Mumbai,2022-05-30,2025-10-10,₹45460,2.0,wrong_email.com,(293)110-2622x89970,
+CUST0349,Sheila Mitchell,Female,41 yrs,Chennai,2023-03-12,2025-01-28,,1.0,dwood@gmail.com,001-021-506-7054,Canada
+CUST0350,Sharon Sellers,,23,,2021-07-18,2025-12-29,,5.0,juliejoyce@hotmail.com,001-139-546-5186x92727,UK
+CUST0351,James Clark,Male,59,Bhopal,2021-12-12,2024-06-26,,4.0,nday@lewis-howell.com,6419129017,UK
+CUST0352,Jennifer Morales,Female,Age is 53 years,Indore,2023-06-29,2026-03-15,33779,2.0,melissa75@carter.com,001-560-756-1093x45560,India
+CUST0353,Jennifer Doyle,Female,44,Pune,2025-11-25,2026-02-13,,4.0,fmorris@hotmail.com,(831)467-6541x3734,Canada
+CUST0354,Robin Farmer,Female,56,,2026-02-19,2026-03-26,₹5631,4.0,wrong_email.com,(449)990-4013,Canada
+CUST0355,Andrew Vega,,Age is 54 years,Delhi,2021-10-25,2024-10-26,₹7605,1.0,wrong_email.com,164.730.1613x091,
+CUST0356,,,Age is 38 years,Bhopal,2026-03-04,,45272,4.0,glenellison@jenkins.org,001-948-128-4404,UK
+CUST0357,Erik Stevens,,58,Delhi,2024-11-25,2024-11-14,₹9615,5.0,michaelbeard@gates.com,12345,UK
+CUST0358,Paul Lopez,Other,38,,2025-05-28,2026-01-30,,4.0,stewartscott@barber.info,964.310.0320x6337,Canada
+CUST0359,Laura Wright,,28,Indore,2025-11-27,2026-02-05,,4.0,nicolewatson@gmail.com,(851)992-1307,UK
+CUST0360,Michael Clarke,Other,45 yrs,Delhi,2023-03-31,2025-12-30,,2.0,oanderson@rowe.com,407-426-7778x7449,USA
+CUST0361,Joshua Gonzalez PhD,,,Chennai,2021-10-25,2025-07-15,21029,5.0,michael02@anderson.com,550-209-5237x452,
+CUST0362,Monica Jackson,Other,,Delhi,2024-12-02,2024-10-06,₹47226,3.0,markmendez@dawson.com,001-257-977-6304,Canada
+CUST0363,Jeffrey Huff,Male,,,2024-10-26,2025-03-26,14238,3.0,rmorales@hotmail.com,531.149.1748,India
+CUST0364,Justin Williams,,46 yrs,Mumbai,2022-03-10,2025-09-21,,,wrong_email.com,001-233-572-3892x361,UK
+CUST0365,Robert Barber,,58,Indore,2021-09-09,,₹9265,1.0,wrong_email.com,414.493.2027x7816,Canada
+CUST0366,Meghan Booth,Other,36,Indore,2024-03-18,2024-12-15,,4.0,juanallison@yahoo.com,001-304-802-5682x313,Canada
+CUST0367,Corey Lowery,Other,30,Pune,2025-03-12,2024-05-16,,1.0,brownmike@gmail.com,(616)966-0482x213,Canada
+CUST0368,Jill Jordan,Other,55,Chennai,2025-03-17,2025-06-29,₹17538,2.0,lroth@yahoo.com,0163160967,India
+CUST0369,Ethan Pace,,34,Delhi,2023-06-06,2025-12-05,11741,2.0,wrong_email.com,205-419-0642x50225,
+CUST0370,Regina Peterson,,,,2024-11-10,2025-03-03,₹17663,1.0,markvasquez@cowan-ochoa.com,373-332-8354,India
+CUST0371,Robin Wilkinson,Female,38 yrs,,2024-08-08,2024-10-13,,3.0,richarddavies@villanueva.com,382.315.7130,
+CUST0372,Melissa Thomas,Other,Age is 19 years,,2024-06-27,2024-08-10,,,grayronald@yahoo.com,0822072263,Canada
+CUST0373,Jasmine Campbell,,,,2023-02-23,2026-01-14,₹47530,1.0,wrong_email.com,001-187-240-3003,USA
+CUST0374,Theresa Zuniga,Other,Age is 35 years,,2023-01-18,,₹48137,4.0,ashley74@hotmail.com,001-991-097-0448x818,Canada
+CUST0375,Robert Williams,Male,,Mumbai,2025-08-18,2025-08-24,46672,3.0,baldwinsarah@hotmail.com,754.099.5415x649,
+CUST0376,Patricia Sanford,Female,,Mumbai,2025-01-19,2026-01-08,,3.0,twarren@perry.org,001-338-835-8778,Canada
+CUST0377,Robert Lozano,Male,53,,2023-08-15,2025-02-20,,4.0,laurarodgers@yahoo.com,(005)170-6129x96653,India
+CUST0378,Joanne Houston,,,Chennai,2024-09-17,2025-04-15,,1.0,wrong_email.com,808-459-4797x47244,USA
+CUST0379,Katherine Perez,Other,Age is 22 years,Mumbai,2026-04-02,2024-12-04,₹4808,2.0,brockdavid@bennett.com,278.113.8226x343,Canada
+CUST0380,Richard Gray,Female,39 yrs,Mumbai,2023-02-04,2024-08-15,,,tiffany34@floyd.org,(519)086-4834x313,
+CUST0381,Nicolas Gonzalez MD,Male,,Mumbai,2023-01-16,2025-06-22,₹11185,,nicole21@pennington-vargas.com,7728719563,USA
+CUST0382,David Ford,Other,Age is 59 years,Indore,2025-01-15,2024-12-26,₹37224,2.0,kingchristopher@yahoo.com,001-564-032-7034x501,USA
+CUST0383,Nicole Beck,,56 yrs,,2024-03-16,2024-07-20,,3.0,jack69@hotmail.com,(560)821-9615,USA
+CUST0384,Katelyn Medina,Male,Age is 56 years,Indore,2025-10-05,2024-10-18,,3.0,wrong_email.com,(340)048-8503x305,USA
+CUST0385,Jennifer Cross,Other,23,Mumbai,2021-06-10,2026-02-02,₹45733,1.0,william58@hotmail.com,084-917-6449x1703,Canada
+CUST0386,Melanie Rollins,,,,2024-06-02,2024-11-16,,5.0,ashley43@yahoo.com,999-166-0494,UK
+CUST0387,Cassandra Holden,Male,18 yrs,Mumbai,2025-07-27,2026-05-01,₹17983,4.0,andersongail@hotmail.com,001-298-899-4493x4666,UK
+CUST0388,Peggy Gonzales,Male,,Pune,2021-09-27,2024-08-10,16435,2.0,jennifer19@maldonado.biz,001-236-810-3711x326,
+CUST0389,Brian Anderson,Male,Age is 32 years,Delhi,2022-06-06,,28486,2.0,robertgomez@yahoo.com,973-281-4939x7385,UK
+CUST0390,Mary Smith,Male,Age is 57 years,Chennai,2025-02-20,2025-10-29,48433,,ryanreed@morris.com,+1-122-120-0963,India
+CUST0391,Maxwell Olson,,Age is 40 years,Chennai,2022-01-17,2025-07-03,₹35807,2.0,rjacobs@yahoo.com,+1-738-037-0836x4971,USA
+CUST0392,Aaron Wolf,Female,Age is 43 years,Delhi,2023-10-16,2025-02-26,20167,4.0,wrong_email.com,032-708-7649,Canada
+CUST0393,Tonya Hughes,,,Pune,2025-01-20,,,2.0,jonfarmer@sanchez.org,12345,USA
+CUST0394,Richard Hopkins,Male,48,Chennai,2023-07-19,2024-07-14,₹43597,,saramason@larson-chase.com,(055)007-5073x7722,
+CUST0395,Ronnie Brown,Male,42,Pune,2021-09-06,2026-03-28,,4.0,adamsolis@clark.com,001-941-475-4123,UK
+CUST0396,Elaine Bailey,,59 yrs,Chennai,2025-03-16,,17297,3.0,ryan71@carr.info,001-877-166-3956,UK
+CUST0397,Lindsay Parks,Female,26,Mumbai,2026-01-19,2024-06-09,,1.0,hollylewis@hotmail.com,(037)039-0370,
+CUST0398,Zachary Alexander,Other,53 yrs,Indore,2024-02-15,,,1.0,lynnwilson@yahoo.com,385-444-5875,UK
+CUST0399,Joshua Mills,Female,44,Delhi,2022-02-13,2024-12-07,₹45504,2.0,gavindouglas@yahoo.com,691-489-6224x384,Canada
+CUST0400,Carla Miles,,,Mumbai,2024-03-21,2025-04-02,1205,3.0,sandovalalicia@guzman.com,384-093-2568,USA
+CUST0401,Mary Castillo,Other,52,Mumbai,2022-07-13,,₹27280,,josephbeck@lindsey-hamilton.com,+1-821-727-6577x487,USA
+CUST0402,Julie Cox,,,Delhi,2025-07-18,2025-12-22,3244,2.0,erinhancock@hotmail.com,12345,
+CUST0403,Steven Contreras,,Age is 43 years,Pune,2021-05-31,,18887,4.0,marycampbell@hotmail.com,5252424743,USA
+CUST0404,Jennifer White,Female,58 yrs,Bhopal,2022-05-02,2026-02-27,33180,5.0,jordanwillis@hotmail.com,+1-062-018-2159x485,UK
+CUST0405,James Barajas,Other,Age is 52 years,Indore,2025-09-17,2024-07-03,16246,,brenda20@yahoo.com,3504561425,India
+CUST0406,Stephanie Jackson,Male,38 yrs,Chennai,2025-08-24,2025-10-30,27465,,kstewart@gmail.com,12345,
+CUST0407,Jesus Gomez,Other,36,Pune,2021-09-28,2026-03-22,43513,2.0,nfowler@newman-gonzalez.net,352-288-4886x41384,India
+CUST0408,Tina Kaufman,,Age is 43 years,Mumbai,2025-05-21,,,5.0,wrong_email.com,12345,India
+CUST0409,Kelly Barrera DDS,Male,Age is 53 years,,2023-03-24,2025-12-05,₹39244,,estewart@gmail.com,+1-792-306-2741x6865,UK
+CUST0410,Virginia Marshall,Female,54,Indore,2024-08-29,2024-11-04,36026,2.0,zacharyvasquez@jimenez.biz,12345,
+CUST0411,,,Age is 40 years,Bhopal,2026-01-26,2024-05-22,,2.0,wrong_email.com,779-520-9433x89407,India
+CUST0412,Kendra Davis,Female,Age is 54 years,Mumbai,2025-02-15,2025-08-01,15932,5.0,stefanie88@gmail.com,988.035.9571,USA
+CUST0413,,,43,Bhopal,2021-12-17,2025-11-02,37455,2.0,collinsemily@molina.biz,+1-472-092-7527x61796,Canada
+CUST0414,Nicole Gentry,,27,Pune,2024-11-15,2026-03-23,,4.0,uellis@hotmail.com,+1-420-859-8860,Canada
+CUST0415,Emily Atkins,Female,Age is 21 years,Delhi,2023-03-09,2024-12-18,26368,4.0,ucastillo@hotmail.com,842-152-7554x297,Canada
+CUST0416,Erin Rose,Female,29 yrs,Chennai,2022-07-31,2026-05-03,₹5745,3.0,christopher78@johnson.com,001-251-108-5379x68413,UK
+CUST0417,Larry Schneider,Other,41,Bhopal,2022-10-16,2024-08-03,,4.0,carlosjackson@kelley.net,(568)587-4408x331,Canada
+CUST0418,Amy Williams,Other,,Mumbai,2022-07-04,2024-12-07,10294,3.0,wrong_email.com,001-722-249-3802x35283,Canada
+CUST0419,Suzanne Brown,,Age is 30 years,,2025-06-09,2025-10-31,₹3077,4.0,kayla48@gmail.com,269.514.7042x913,India
+CUST0420,Joanna Black,Female,21 yrs,Delhi,2024-03-23,2024-09-21,8839,2.0,emiller@yahoo.com,12345,UK
+CUST0421,,Female,51,,2022-02-21,,₹28585,1.0,joshuacarr@smith.org,7357366471,Canada
+CUST0422,Alyssa Frederick,Male,,Bhopal,2022-05-21,2026-03-04,,,wrong_email.com,+1-034-890-1998,UK
+CUST0423,Zoe Anderson,Female,Age is 20 years,Mumbai,2023-12-31,2026-03-18,,2.0,joycecarolyn@yahoo.com,(317)171-7235,Canada
+CUST0424,Garrett Arellano,Female,,Bhopal,2022-07-08,2024-05-12,₹42751,5.0,wrong_email.com,(189)884-9506x22187,USA
+CUST0425,Richard Norris,,31,Chennai,2022-06-18,2024-11-09,,4.0,jason84@edwards-phillips.com,(861)982-3229,
+CUST0426,Dana Bryant,,23,Chennai,2026-02-17,2024-10-31,,3.0,christopher12@hill-juarez.com,0369016627,USA
+CUST0427,Michael Thomas,Other,29 yrs,Pune,2023-08-23,2024-05-19,,4.0,davisjenna@yahoo.com,12345,India
+CUST0428,Jasmine Hodges,Male,28 yrs,Chennai,2021-05-17,2025-07-30,₹45432,1.0,jgardner@thornton-kane.org,407.398.2323,
+CUST0429,Harold Thompson,Female,,Indore,2024-05-03,2025-07-28,₹48497,5.0,kemptammy@hotmail.com,(892)460-5529,USA
+CUST0430,Sylvia Moses,Female,24,,2025-07-20,2025-09-05,,1.0,michaelkramer@hotmail.com,9223349555,USA
+CUST0431,Brittany Jensen,Female,Age is 19 years,,2025-01-25,2024-11-08,,2.0,stevenkidd@curtis-parks.info,(506)656-0580x82101,India
+CUST0432,Angela Stewart,Male,,Delhi,2025-05-03,2026-02-15,₹33373,,kevin27@yahoo.com,+1-360-924-4358,Canada
+CUST0433,Faith Thompson,Female,51,Delhi,2021-08-31,2025-11-20,10305,1.0,wrong_email.com,+1-254-029-0232x2295,UK
+CUST0434,James Elliott,Male,Age is 20 years,Indore,2022-05-10,2024-12-02,₹17474,5.0,samantha57@hotmail.com,001-360-494-9142,USA
+CUST0435,Dana Allen,Female,48 yrs,Bhopal,2024-08-23,2025-03-10,,1.0,dianebell@cohen-smith.com,958-780-4627x77557,UK
+CUST0436,Hailey Sullivan PhD,Other,38,Pune,2025-02-23,,₹14049,1.0,kimberly82@alvarez.com,12345,Canada
+CUST0437,Kelly Barrett,,42,Pune,2024-03-03,2024-12-23,39299,3.0,timothyfreeman@nunez.biz,+1-873-452-3416x888,USA
+CUST0438,Jennifer Frye,Other,42 yrs,,2025-01-12,2026-05-02,,3.0,privera@higgins-blankenship.com,(075)790-5636x55807,
+CUST0439,Tricia Hansen,Other,,Mumbai,2026-02-12,2025-01-12,,2.0,hhoward@lin.org,001-923-728-8796x86951,USA
+CUST0440,Candace Wilson,Female,20,Indore,2023-01-17,2026-05-03,18137,2.0,lcarrillo@powell.com,(393)127-9183,UK
+CUST0441,Michael Smith,Male,32 yrs,Delhi,2024-12-11,2025-04-08,3277,2.0,fwinters@gmail.com,+1-493-804-8298x5822,UK
+CUST0442,Bryan Pierce,Male,36 yrs,Mumbai,2023-10-31,2025-05-26,,2.0,lisavaughn@gmail.com,587-961-2128x87129,UK
+CUST0443,Sabrina Flores,Other,,Chennai,2024-12-24,2024-06-30,44182,,wrong_email.com,001-065-304-0969x785,India
+CUST0444,Travis Butler,,Age is 46 years,Indore,2022-09-02,2025-07-05,,2.0,wrong_email.com,001-797-679-8063x4711,UK
+CUST0445,Randall Fisher,Other,,Bhopal,2023-01-14,2024-05-23,28999,5.0,wrong_email.com,510-768-0929x0577,UK
+CUST0446,Kathryn Smith,,Age is 24 years,,2025-08-12,2024-09-02,₹37854,5.0,williamjackson@yahoo.com,+1-110-778-7329x8260,UK
+CUST0447,Paul Chen,,55,Indore,2022-05-18,2025-03-12,,4.0,laura10@harvey-owen.org,+1-097-852-3386x30478,UK
+CUST0448,Gregory Hardy,Male,Age is 23 years,Delhi,2025-04-27,2025-11-09,₹20620,,rruiz@yahoo.com,+1-472-750-8990x30622,Canada
+CUST0449,Janet Hunter,Female,55 yrs,Pune,2021-07-05,2025-07-24,26022,3.0,kjohnson@dean-wilson.com,(192)229-2729,Canada
+CUST0450,Christy Lawrence,,34,Delhi,2023-09-19,2025-09-04,,2.0,stewartstanley@hotmail.com,961.498.6711x982,Canada
+CUST0451,Kristin Guzman,Male,Age is 24 years,Indore,2022-03-07,2024-09-26,₹42427,1.0,kimberlyromero@hotmail.com,707-343-9850,UK
+CUST0452,Monique Ramos,,,Delhi,2022-03-11,2025-02-07,₹40198,,marywalker@winters.com,+1-991-877-9664x6018,UK
+CUST0453,Gerald Anderson,Male,Age is 40 years,Bhopal,2021-10-18,2024-09-17,44395,1.0,mwolf@gmail.com,862-966-4098x5981,USA
+CUST0454,Kenneth Flowers,Male,23,Indore,2022-04-27,2026-03-24,₹1650,4.0,wrong_email.com,708-224-6958,
+CUST0455,Ashley Wilson,Other,31,,2025-06-28,2025-07-12,₹37942,1.0,johnsonkevin@mendoza.com,12345,USA
+CUST0456,Aaron Ortiz,Male,Age is 46 years,Delhi,2021-12-28,2026-03-29,,2.0,valeriesawyer@hotmail.com,3683900095,
+CUST0457,Aaron Malone,Other,,Bhopal,2021-08-15,2025-05-23,,4.0,paulaross@yahoo.com,(428)165-4224x347,India
+CUST0458,Theodore Fry,,53,Indore,2021-11-19,2025-06-17,₹22773,,leetara@yu.com,552-355-2316x2179,Canada
+CUST0459,Brandi Miller,,Age is 52 years,Pune,2023-05-21,,,1.0,kgutierrez@hotmail.com,2517926730,UK
+CUST0460,Kathleen Delacruz,Female,Age is 60 years,Chennai,2022-03-17,2025-03-07,,4.0,wrong_email.com,+1-474-993-2729x12047,Canada
+CUST0461,Curtis King,,42,Indore,2025-03-08,2026-05-05,,,cynthiaandrews@gmail.com,011-715-9583x0616,UK
+CUST0462,Jody Holden MD,,24 yrs,Mumbai,2023-11-30,2024-08-26,₹30965,5.0,yoderalex@salazar.biz,(378)917-4398x09670,Canada
+CUST0463,Gabriel Garrison,Male,60,Pune,2023-11-18,2026-04-26,₹46276,,amyhicks@bell.info,+1-698-730-5779,USA
+CUST0464,Heather Rose,,49 yrs,,2024-08-31,2024-09-26,₹8973,3.0,lewiscorey@caldwell-meza.com,+1-320-889-8482x1690,Canada
+CUST0465,Andrea King,,50 yrs,Delhi,2022-05-20,2025-02-06,48406,5.0,ahall@yahoo.com,6353335420,Canada
+CUST0466,Joseph Moore,Male,Age is 46 years,Chennai,2021-12-09,2025-11-09,₹7287,,baileyrobert@hotmail.com,12345,UK
+CUST0467,Tiffany Levine,,Age is 45 years,Delhi,2024-12-04,2026-01-07,,5.0,miranda84@gmail.com,300-613-5802x415,Canada
+CUST0468,Mr. Roberto Roberts MD,Female,30,Chennai,2025-05-08,,38979,3.0,berrysheila@stanton-chambers.com,(375)218-0925,UK
+CUST0469,Dana Jackson,Other,22,Chennai,2022-02-20,2024-11-10,10705,3.0,cheryl53@long.com,001-949-669-6450x275,Canada
+CUST0470,Kyle Grant,Other,,Bhopal,2025-06-04,2025-08-20,37005,4.0,nicole69@harris.org,(556)313-2181,
+CUST0471,Veronica Williams,,,Pune,2025-04-11,2024-08-20,₹37648,2.0,xhansen@martin.com,12345,UK
+CUST0472,Lisa Henderson,Male,,Pune,2021-06-26,2024-06-08,20663,4.0,jessica90@griffith-savage.biz,12345,USA
+CUST0473,Robert Carrillo,Female,,,2024-01-25,2025-02-12,16826,2.0,ronaldperkins@hotmail.com,541.408.4318x47858,UK
+CUST0474,Tony Frederick,Female,56 yrs,Mumbai,2022-09-16,2025-02-17,,4.0,wrong_email.com,(143)349-0895x957,India
+CUST0475,Ian Anderson,Male,Age is 18 years,Chennai,2022-09-19,2024-10-25,22291,4.0,wendywarren@matthews.com,001-133-439-1657x470,USA
+CUST0476,Charles Bowman,,,Chennai,2025-12-30,2025-03-22,4651,3.0,marygreen@young.org,513-433-6107,USA
+CUST0477,Connor Black,Female,57,Bhopal,2023-08-14,2025-10-07,8825,1.0,tperez@gmail.com,239-851-8454x8922,India
+CUST0478,Jasmin Patel,Other,Age is 55 years,Pune,2024-12-17,2026-04-30,,2.0,ijohnson@yahoo.com,150.333.6405x894,
+CUST0479,Christian Martin,Female,38 yrs,Bhopal,2024-11-04,2025-07-20,,3.0,qsmith@gmail.com,601.307.1952,
+CUST0480,Robert Beck,,,Bhopal,2024-03-15,2024-09-16,₹4180,1.0,theresa43@kelly.info,0057219728,
+CUST0481,Joseph Vincent,Male,Age is 48 years,Bhopal,2021-12-21,2025-06-10,27289,2.0,greennicole@hotmail.com,(360)217-4185,India
+CUST0482,Sheri Mccullough,Male,40,Chennai,2021-12-18,,₹7601,5.0,connorbooker@townsend.com,376.317.1009,Canada
+CUST0483,Diana Morales,Female,60,Mumbai,2026-03-16,2025-01-19,3818,,aliciahardy@hotmail.com,364.325.9417x8026,
+CUST0484,Erika Mitchell,Other,Age is 23 years,Chennai,2025-11-01,2025-04-27,15350,,zharmon@barron.com,001-217-891-1381,UK
+CUST0485,Cynthia Rogers,Female,Age is 41 years,Mumbai,2022-02-14,2025-06-14,,5.0,amanda29@walker.com,587.099.8048x840,USA
+CUST0486,Shawn Krueger,Female,22 yrs,Delhi,2023-12-25,2025-12-25,₹28762,1.0,bmendoza@gmail.com,296-948-1649x07165,India
+CUST0487,Jennifer Kane,,Age is 30 years,,2024-06-16,2024-09-24,₹35169,3.0,oliviasanchez@king-hoffman.com,12345,India
+CUST0488,Kristina Wilkerson,Female,35 yrs,Pune,2023-03-03,,18862,4.0,curtismelissa@gmail.com,3158053734,India
+CUST0489,Douglas Gonzalez,Other,37 yrs,Delhi,2023-06-14,2025-06-22,,1.0,bsanchez@yahoo.com,(880)176-2962x515,USA
+CUST0490,Jodi Cabrera,Female,39 yrs,Bhopal,2021-08-27,2024-07-24,₹39429,2.0,todd55@chung-garcia.biz,142-232-1288x95912,Canada
+CUST0491,Brandy Reid,Other,32,Mumbai,2023-07-30,2025-08-16,₹22578,4.0,wrong_email.com,517-965-9895,
+CUST0492,Christopher Wright,,,Delhi,2023-06-11,,₹42619,4.0,richardrobbins@rodriguez-sutton.info,625-569-2490x7311,UK
+CUST0493,Bradley Ross,Other,39,Indore,2026-02-23,2024-06-11,,5.0,joshua65@gmail.com,001-530-631-1862x595,
+CUST0494,David Roy,Male,36,Bhopal,2026-01-04,2025-07-09,28046,1.0,onelson@cox.com,001-750-844-9785x3468,Canada
+CUST0495,Catherine Smith,Female,57,,2024-05-19,2026-02-02,43320,4.0,vperez@hotmail.com,+1-037-443-3106x0105,Canada
+CUST0496,Wayne Jones,,52,Chennai,2024-10-10,2026-02-05,,3.0,vcole@pena.biz,(007)112-6314,
+CUST0497,Stacy Rodriguez,,Age is 50 years,Mumbai,2024-08-25,2024-06-29,,4.0,nharris@williams-alvarez.com,(990)554-3182,India
+CUST0498,Russell Sullivan,,,Indore,2023-02-09,2026-05-01,,4.0,amandacalderon@hotmail.com,+1-801-109-0268x43276,Canada
+CUST0499,John Vincent,Male,Age is 52 years,Bhopal,2023-03-22,,41271,4.0,jasonpalmer@holt-ellis.com,+1-741-015-5816x0078,USA
+CUST0500,Mr. Steve Diaz,Other,31,Indore,2021-09-20,2024-08-31,23322,3.0,jonsmith@reeves-davenport.org,(381)605-3173x931,India
+CUST0501,Bruce Lopez,Other,Age is 33 years,,2021-10-09,2024-11-10,₹39768,2.0,jennifersherman@harris-clark.org,(417)707-7202x4831,USA
+CUST0502,Andrew Lara,,Age is 44 years,Delhi,2026-02-07,2024-06-11,₹11262,,stewartchristina@hotmail.com,(929)614-4761x77749,
+CUST0503,Amanda Bullock,,55 yrs,,2022-07-19,2025-03-03,34056,1.0,daywhitney@hotmail.com,(527)015-6574x47996,USA
+CUST0504,Alec Valenzuela,Other,,,2025-01-28,2024-09-10,₹48584,4.0,wrong_email.com,127-753-5658x61525,India
+CUST0505,Michael Zuniga,Female,Age is 32 years,Pune,2022-01-27,2026-05-02,,2.0,ghansen@holmes.com,+1-744-410-4708,
+CUST0506,Christina Cooper,Other,40,Pune,2026-04-14,2025-07-03,36076,2.0,michael75@armstrong.com,+1-664-677-9688x69724,
+CUST0507,Michael May,,,Pune,2023-01-25,2025-07-13,₹18996,,brianwilson@reyes.biz,12345,Canada
+CUST0508,William Hudson,Male,,Delhi,2025-05-20,2025-04-17,18569,4.0,garrett26@baldwin.net,001-129-144-8835x65468,USA
+CUST0509,Terri Morton,Other,60,Indore,2022-12-23,2026-01-24,,5.0,johnmartinez@gmail.com,433.773.8668x888,UK
+CUST0510,David Richardson,Female,50,Indore,2021-08-31,2025-06-14,43842,4.0,whitestephanie@gmail.com,836-774-0697x1841,India
+CUST0511,Vanessa Walker,Male,Age is 20 years,Delhi,2021-09-25,,28122,1.0,wwhite@yahoo.com,165.898.5067x8231,Canada
+CUST0512,Keith Welch,Male,26,Mumbai,2024-03-17,2026-01-24,₹22642,2.0,kmccarthy@hotmail.com,7720219039,
+CUST0513,Cynthia Hill,Other,37,Bhopal,2025-10-29,2024-10-29,₹31954,2.0,daviswilliam@moore.com,013-087-7979,USA
+CUST0514,Tammy Taylor,,,Bhopal,2023-09-07,2025-06-30,,2.0,wrong_email.com,505-139-6212,UK
+CUST0515,Erin Williams,Male,,Pune,2022-04-04,2024-09-13,14540,5.0,jacksonandrew@dixon-mckenzie.org,086.532.0591,Canada
+CUST0516,Zachary Horton,Other,26,Chennai,2021-05-20,,27857,3.0,joseph31@jackson.com,671.053.8399,
+CUST0517,Tracy Wong,Other,,Pune,2021-10-27,2024-09-27,,4.0,wrong_email.com,589.105.9957,India
+CUST0518,Aaron Lopez,,29 yrs,Mumbai,2021-08-08,2025-12-30,37172,2.0,scompton@martinez-jefferson.org,(198)225-5014x92976,Canada
+CUST0519,Gary Grant,Female,,Bhopal,2023-04-30,2025-05-02,43820,1.0,wrong_email.com,+1-261-709-8840x3257,India
+CUST0520,Ricky Lane,Other,56,,2025-03-13,2026-01-27,5789,1.0,nathandaniels@kelly.com,+1-241-442-3410x06664,USA
+CUST0521,Nancy Vega,Male,46 yrs,Indore,2021-09-10,2025-10-29,₹27473,2.0,oparks@yahoo.com,+1-107-954-3794x03559,Canada
+CUST0522,Miguel Walker,Female,23,,2025-12-31,2025-12-22,6354,1.0,adamterrell@jackson.com,(901)954-1997,Canada
+CUST0523,Michael Callahan,Other,,Bhopal,2022-02-13,2025-01-20,,5.0,fordrobert@ford.com,001-780-187-5236x8073,India
+CUST0524,Steven Anderson,Other,25,Indore,2023-10-27,2024-11-18,32726,5.0,kevin03@hotmail.com,001-721-463-7831x5216,
+CUST0525,Tammy Rice,Male,Age is 36 years,Indore,2023-03-15,2024-08-30,₹25102,1.0,michael45@yahoo.com,833.626.4385x505,UK
+CUST0526,Matthew Garcia,Other,32 yrs,,2023-01-13,2026-04-08,6673,2.0,scott89@yahoo.com,741.191.9976,UK
+CUST0527,Justin Reese,Female,Age is 33 years,Pune,2024-05-02,2026-02-18,₹12756,1.0,christopheredwards@gmail.com,+1-351-641-4847,
+CUST0528,Andrew Cochran,,26,Bhopal,2024-11-23,2024-10-31,28874,4.0,alicia03@yahoo.com,409-247-6394x076,USA
+CUST0529,Timothy Horne,Male,38 yrs,Pune,2023-06-30,2025-08-12,₹49484,1.0,tdawson@yahoo.com,062.141.7668,India
+CUST0530,Sarah Bush,Male,Age is 23 years,Pune,2025-07-15,2026-01-14,₹21245,1.0,kgolden@gmail.com,166.775.6104x21329,
+CUST0531,Amanda Brown,Other,Age is 48 years,Mumbai,2025-07-17,2025-03-04,,2.0,gary60@hotmail.com,12345,India
+CUST0532,Tiffany Roberts,,Age is 42 years,Pune,2024-01-28,2024-05-23,28838,4.0,masonmallory@harris.com,+1-398-932-9920x27610,
+CUST0533,Brandon Monroe,,,,2025-12-12,2026-03-26,₹25641,4.0,cory45@blevins.com,1357705324,Canada
+CUST0534,Tyrone Moore,Female,36 yrs,Chennai,2024-05-11,2025-02-18,₹39998,2.0,aaronhodge@gmail.com,501-719-7533,USA
+CUST0535,Jacob Howard,,60 yrs,Delhi,2022-01-17,2026-02-05,,1.0,bradleyharris@yahoo.com,495-783-1907x917,UK
+CUST0536,Kylie Campbell,,,Chennai,2024-01-25,2025-01-13,₹17045,,christopher26@hughes-velez.org,765-055-6625,Canada
+CUST0537,Cynthia Houston,Female,Age is 41 years,Indore,2023-06-12,2024-08-30,,5.0,oclayton@johnson.org,451.737.6991,Canada
+CUST0538,James Flores,Female,Age is 30 years,Delhi,2026-05-01,2025-01-31,34883,1.0,joshuasanchez@mcgee-gill.com,508-225-7950,USA
+CUST0539,Elizabeth Andrews,Other,Age is 18 years,Pune,2023-12-21,2024-07-09,24131,4.0,raymond41@gmail.com,484-790-6366x97425,India
+CUST0540,Gregory Gill,Female,51,Mumbai,2023-07-09,2025-03-06,₹12005,4.0,bryancollins@gmail.com,(851)755-5951x9209,USA
+CUST0541,Jeffrey Williams,Male,42 yrs,Delhi,2024-03-11,2024-10-29,,,erik40@gmail.com,12345,Canada
+CUST0542,Cheryl Chambers,Female,29 yrs,Delhi,2022-05-01,2025-12-09,,,denisefreeman@gmail.com,+1-783-164-8954x674,Canada
+CUST0543,Kevin Hunt,,,Indore,2022-03-02,2025-01-13,,4.0,fostersusan@long.com,143-391-8458x9907,Canada
+CUST0544,Stacy Simon,Female,33,,2022-01-21,2026-04-01,₹5405,5.0,wangrobin@hotmail.com,+1-306-212-0135,USA
+CUST0545,Johnny Crawford,Male,Age is 59 years,Indore,2023-01-29,2024-12-06,,,ronaldfigueroa@yahoo.com,+1-888-094-6091x3579,USA
+CUST0546,,Other,60 yrs,Delhi,2025-08-09,2024-07-30,9134,5.0,vglass@dillon.com,098.283.9371x34055,
+CUST0547,Ryan Gillespie,Female,Age is 49 years,Pune,2021-12-30,2025-09-12,36482,2.0,wrong_email.com,(272)402-2013x5403,UK
+CUST0548,Carmen Mora,Male,,Chennai,2025-04-10,2026-03-01,,,wilkinsonkatrina@gonzalez.net,(152)020-3095x909,India
+CUST0549,Carrie Greene,Female,34 yrs,Mumbai,2022-09-16,2024-07-16,₹8519,1.0,lorigeorge@vincent-miller.org,(252)317-1609x638,UK
+CUST0550,Alyssa Crawford,Other,,Chennai,2023-09-13,2025-11-22,₹49179,,griffinjennifer@hotmail.com,841-661-2458x23320,
+CUST0551,Jessica Baker,Female,42 yrs,,2023-03-31,2025-03-26,,3.0,wrong_email.com,12345,USA
+CUST0552,Barbara Cervantes,Female,,,2024-04-03,2025-09-08,,4.0,wrong_email.com,532.202.3155x19178,India
+CUST0553,Melanie Williams,,39,Indore,2021-10-15,2025-01-09,₹24366,4.0,wrong_email.com,169-486-6990x570,USA
+CUST0554,Donna Collins,Male,31 yrs,Pune,2024-04-07,2026-02-01,26196,4.0,tgoodman@terrell-montes.com,8001665392,
+CUST0555,Heather Best,Female,18 yrs,Pune,2025-10-19,2026-03-21,,1.0,rodgerskevin@gmail.com,417.002.3514,Canada
+CUST0556,Melanie Smith,,22 yrs,,2024-06-16,2025-08-31,₹19951,,shepherdcarrie@hotmail.com,865.238.4619x67688,UK
+CUST0557,James Holland,Female,19 yrs,,2025-11-01,2024-09-20,,5.0,drobinson@hotmail.com,(684)887-1281x988,USA
+CUST0558,Jeffery Baldwin,Female,,Delhi,2024-08-16,2024-09-22,₹31326,3.0,ctapia@gmail.com,(579)597-4378,Canada
+CUST0559,Michael Bennett,Other,Age is 20 years,,2022-08-27,2026-02-24,41903,4.0,wrong_email.com,283-241-7506x80733,India
+CUST0560,Amanda Lawrence,Other,42,Mumbai,2022-05-27,2024-10-11,,2.0,erin29@stone.com,+1-624-840-2872,India
+CUST0561,Nicole Anderson,,,Indore,2026-05-02,2025-08-16,,2.0,mark03@hotmail.com,932.025.9205,India
+CUST0562,Michael Burton,Female,52 yrs,,2025-08-24,2025-07-08,37613,1.0,wrong_email.com,312-659-9060x66613,Canada
+CUST0563,Jason Howell,Female,50 yrs,,2024-06-15,2025-12-24,₹49995,1.0,vrobinson@yahoo.com,12345,USA
+CUST0564,Jacqueline Vasquez,Female,,Bhopal,2023-07-16,2026-02-07,2614,4.0,fgonzales@barnes.com,001-450-965-9280x66499,India
+CUST0565,Lauren Cook,Female,25 yrs,Delhi,2025-12-03,2026-01-25,23693,5.0,peterfischer@obrien-hill.com,010.929.1076,
+CUST0566,Christine Turner,Female,Age is 42 years,Delhi,2022-07-30,2024-06-04,₹38416,1.0,jacobskatie@morris.com,001-644-162-2078,USA
+CUST0567,Eric Herrera,,35 yrs,Delhi,2022-09-17,2025-06-02,₹16254,3.0,markbrock@bennett.com,(900)842-9115x32888,UK
+CUST0568,Mr. Carl Rodriguez Jr.,Female,38 yrs,,2024-02-22,2026-01-29,,,wrong_email.com,(597)261-8256,
+CUST0569,Taylor Hughes,Other,,Indore,2024-11-10,2025-08-08,17100,3.0,dawn04@yahoo.com,001-300-095-4882,Canada
+CUST0570,Scott Odom,,44,Chennai,2024-04-26,2025-05-08,4648,3.0,justinjenkins@sawyer-lewis.org,789-921-2386x31491,USA
+CUST0571,Erica Lynch,Male,,Chennai,2024-10-04,2025-08-17,,1.0,paul77@miller.biz,12345,Canada
+CUST0572,Julie Richards,Other,26 yrs,Mumbai,2025-10-15,2026-04-22,18734,4.0,wrong_email.com,001-767-690-9088x6693,USA
+CUST0573,Mark Richardson,Other,,Pune,2025-01-27,2025-05-09,7789,5.0,rebeccaallen@smith.org,7379687363,UK
+CUST0574,Morgan Hampton,Male,Age is 22 years,Delhi,2024-05-06,2025-05-17,,3.0,fosterjohn@marsh.com,+1-976-597-6156,
+CUST0575,Krista Mcguire,Female,28,Pune,2022-02-07,,29076,1.0,jsmith@berry-gonzalez.info,001-648-019-0908x0260,India
+CUST0576,Anna Adams,,Age is 19 years,Pune,2025-04-04,2025-12-10,₹31863,5.0,wrong_email.com,12345,Canada
+CUST0577,Crystal French,Other,Age is 50 years,Delhi,2022-02-23,2024-10-29,,5.0,joneslauren@moses.biz,739-735-5006,USA
+CUST0578,Michael Reed,Male,,,2022-04-04,2024-05-18,,2.0,wrong_email.com,917-009-5450x795,Canada
+CUST0579,Alicia Hutchinson,Male,Age is 58 years,,2023-10-19,2025-09-17,₹25833,5.0,michele33@perkins.biz,(734)301-7299,USA
+CUST0580,Ricky Johnson,Male,Age is 21 years,Bhopal,2023-02-19,2026-01-11,,5.0,hansonbobby@oconnor.com,946-973-9424,
+CUST0581,Jessica Curtis,Male,29 yrs,Indore,2022-02-24,2025-08-02,,,mcintoshjames@gmail.com,+1-881-902-1026,UK
+CUST0582,Kiara Martin,Other,39,,2021-12-24,2024-07-11,,5.0,andrewflores@smith-haley.biz,657-412-7550x7869,India
+CUST0583,Jessica Jones,Female,Age is 48 years,Pune,2022-06-27,2025-09-14,₹32840,1.0,ndaniel@gmail.com,664-049-9170x36644,India
+CUST0584,Stephen Mitchell,Other,Age is 49 years,,2024-08-11,2026-01-06,,,weisslauren@hotmail.com,+1-479-160-8252,
+CUST0585,Caitlin Perez,,,,2023-04-14,2025-04-07,₹49668,1.0,ygibson@calderon.com,759-249-2848,India
+CUST0586,Diana Harmon DDS,Male,,Delhi,2024-07-24,2024-11-03,40912,2.0,brittany66@flores.com,001-106-157-0761x469,Canada
+CUST0587,Julie Ruiz,Other,18,Chennai,2023-07-22,2026-03-19,,3.0,deborahsilva@nguyen.com,(719)426-8332x1799,India
+CUST0588,,Female,Age is 48 years,Chennai,2026-03-10,2025-06-26,₹44619,2.0,wrong_email.com,+1-774-053-6351,
+CUST0589,Clifford Hill,Other,40,Mumbai,2024-12-10,2025-01-22,,4.0,benjamin17@greene.com,+1-086-660-5722x953,USA
+CUST0590,Courtney Green,,Age is 52 years,Chennai,2024-10-29,2025-09-24,,,xschwartz@larsen.com,443.621.6180,India
+CUST0591,Logan Greene,Male,29 yrs,Indore,2025-07-10,,11106,2.0,jennifer79@gmail.com,(902)913-4374x535,UK
+CUST0592,John Long,Female,Age is 30 years,Bhopal,2022-05-17,2026-04-07,12730,1.0,ilong@lopez.com,(809)139-4489x297,
+CUST0593,Christopher Vargas,Female,52,Delhi,2026-02-15,2025-10-04,₹47480,4.0,icox@ross.net,12345,
+CUST0594,Kathryn Terry,Male,38 yrs,Chennai,2021-11-06,2025-10-04,3678,3.0,wrong_email.com,+1-767-076-4325x10257,
+CUST0595,Wendy Farrell,Male,Age is 19 years,Chennai,2023-11-15,2025-07-22,32182,2.0,thomasrobert@green-rhodes.com,+1-562-563-5701x3748,Canada
+CUST0596,Diana Munoz,Other,Age is 45 years,,2026-04-11,2024-05-09,₹19856,3.0,ljohnson@carter.com,001-681-875-6048,USA
+CUST0597,Shannon Olson,Other,,Mumbai,2022-11-27,2024-06-29,25739,4.0,angelaarroyo@boone-graham.biz,12345,USA
+CUST0598,,Male,Age is 58 years,Pune,2026-01-16,2025-04-05,₹7795,5.0,sadams@brooks.biz,0435221216,UK
+CUST0599,David Johnson,Male,Age is 35 years,Delhi,2022-09-06,2024-08-12,₹23225,5.0,robertrodgers@cook.net,12345,UK
+CUST0600,Clifford Wilson,,55,Pune,2022-05-04,2025-02-14,18978,5.0,rthompson@pope-ramsey.com,3575519781,UK
+CUST0601,,,Age is 37 years,Indore,2024-01-25,2024-10-17,,2.0,victoria41@simon.com,1648261860,India
+CUST0602,Gerald Trujillo,Male,,Pune,2024-04-21,2024-10-12,₹27085,,anthonyrogers@brown.net,5333401761,USA
+CUST0603,Jonathan Henderson,Male,20 yrs,,2025-06-20,2025-09-08,,1.0,llarson@hotmail.com,001-520-617-1298x55635,UK
+CUST0604,Juan Morris,,Age is 18 years,Bhopal,2023-03-25,2025-10-12,,5.0,ecarlson@gmail.com,001-977-638-2786x452,Canada
+CUST0605,Catherine Peterson,Other,22 yrs,Delhi,2023-12-06,2024-07-26,,2.0,longmary@livingston.com,001-977-139-8343x515,UK
+CUST0606,Terri Woods,Male,29 yrs,,2022-06-22,2025-04-10,,5.0,kathleen13@cohen.com,857.538.5617x363,
+CUST0607,Ryan Thompson,Female,30,Chennai,2023-08-11,2024-05-13,48207,1.0,cassandra15@hotmail.com,001-119-749-2533x0209,UK
+CUST0608,David Hester,Male,36,Chennai,2025-07-22,2025-05-17,30524,2.0,wrong_email.com,+1-105-973-9613x092,Canada
+CUST0609,Ricky Carlson,,,Delhi,2024-06-02,2026-04-15,,1.0,traci58@yahoo.com,(719)457-7811x26193,India
+CUST0610,,,,Pune,2025-08-07,2024-06-06,16655,5.0,devin80@yahoo.com,+1-107-039-5117x4916,
+CUST0611,Christopher Short,Other,Age is 23 years,Bhopal,2022-01-11,2024-12-16,₹34879,,andersonkelly@gmail.com,1588293539,Canada
+CUST0612,Katherine Lane,Female,,Mumbai,2023-09-29,2025-10-15,,4.0,wrong_email.com,+1-056-562-2689x57467,Canada
+CUST0613,Nichole Martin,,57 yrs,Indore,2024-04-30,2025-03-13,₹26238,5.0,thartman@hotmail.com,(005)720-8653,India
+CUST0614,Angela Brooks,,Age is 39 years,Mumbai,2023-06-23,2026-02-15,₹10745,4.0,wrong_email.com,668-455-3883x1404,USA
+CUST0615,Joshua Parker,Female,Age is 37 years,,2024-05-26,2025-05-25,,,wrong_email.com,713.429.1026,India
+CUST0616,Terry Hancock,Female,Age is 52 years,Bhopal,2025-10-10,2025-02-02,34356,4.0,stevenfarmer@jones.com,614.271.2368,Canada
+CUST0617,Craig Fernandez,,23 yrs,Bhopal,2026-02-06,2025-11-19,,,arnoldjonathan@walton-scott.com,+1-375-812-9786x5841,UK
+CUST0618,Jorge Alvarez,Other,51 yrs,Bhopal,2022-06-01,2025-03-31,4960,,cheyenne89@stark-shepherd.com,068-283-1009x602,India
+CUST0619,Melissa Harris,Other,Age is 52 years,,2024-02-15,2024-07-01,,1.0,jaime26@gmail.com,(329)005-4171x4403,Canada
+CUST0620,Travis Roy,Female,47 yrs,,2021-10-26,2025-06-28,42336,3.0,neil78@gmail.com,+1-347-722-3441x15389,Canada
+CUST0621,David Burgess,,33,,2026-04-29,2025-01-27,30923,5.0,jordan64@yahoo.com,+1-647-019-2888,USA
+CUST0622,Michael Armstrong,Male,Age is 60 years,Chennai,2025-03-13,2025-09-30,₹9405,2.0,wrong_email.com,473-958-7150,
+CUST0623,Philip Pruitt,,59 yrs,,2023-10-22,2026-04-11,5887,5.0,wrong_email.com,993-528-0797,USA
+CUST0624,Christina Watson,Other,44 yrs,Mumbai,2025-12-13,2026-03-10,,,wrong_email.com,(746)533-6125x042,India
+CUST0625,Cathy Deleon,Female,,Pune,2024-04-23,,₹15940,3.0,brittanymiller@yahoo.com,(643)024-8850x182,UK
+CUST0626,Hannah Robbins,Male,21 yrs,Bhopal,2025-04-04,2025-11-16,₹43300,1.0,wrong_email.com,7244340279,Canada
+CUST0627,Michael Williamson,Female,Age is 41 years,Pune,2023-11-05,2025-06-13,,3.0,josephscott@brewer.com,(103)335-1873x822,India
+CUST0628,Shelley Frey,Male,29,Bhopal,2021-10-16,2024-06-05,₹2298,5.0,xanderson@smith.com,(095)748-9948,Canada
+CUST0629,Kenneth Lee,Female,23 yrs,Pune,2024-11-02,,,2.0,john53@cruz.com,(466)094-4380,USA
+CUST0630,Richard Powers,,49 yrs,Chennai,2022-04-23,2025-10-08,,,iaguilar@gonzalez.com,(393)003-4554,USA
+CUST0631,Norma Weiss,Female,Age is 53 years,Bhopal,2021-11-18,2025-12-07,₹45613,4.0,maryroberts@taylor.com,830.113.2469,
+CUST0632,Elizabeth Garcia,Other,47 yrs,,2022-07-12,2025-10-12,42100,1.0,wrong_email.com,12345,Canada
+CUST0633,Maria Evans,Male,Age is 28 years,,2025-04-13,2024-09-04,28336,5.0,wrong_email.com,433-201-6970x06698,USA
+CUST0634,Anna Davis,Male,38 yrs,Bhopal,2023-04-11,,₹31245,,kelly07@hotmail.com,+1-665-199-3122x79244,USA
+CUST0635,Anthony Weaver,Other,,Bhopal,2024-09-14,2024-05-22,,1.0,wayneyoung@gmail.com,674-937-6579x191,India
+CUST0636,Kevin Miller,Other,,Bhopal,2024-02-29,2025-02-22,₹48341,,joshuacruz@thomas.com,(823)255-7354x63583,
+CUST0637,Andrea Johnson,Male,56,,2022-07-23,2025-01-04,1343,1.0,wrong_email.com,359.706.9218x524,UK
+CUST0638,Michelle Paul,Other,Age is 49 years,Chennai,2026-01-30,2025-09-01,₹47980,5.0,dakota86@yahoo.com,12345,UK
+CUST0639,Eric Preston,Male,58,Delhi,2023-10-22,2025-06-24,₹31537,2.0,jonesjames@brown.biz,(003)753-9913x4801,UK
+CUST0640,Debbie Harding,Female,Age is 24 years,Mumbai,2026-01-05,2025-03-08,25895,2.0,sabrina51@yahoo.com,(452)374-5251,UK
+CUST0641,Nicholas Johnson,Male,,,2025-11-09,2025-07-06,₹31707,4.0,gloriaking@yahoo.com,341.660.2992x13721,UK
+CUST0642,Dominique Smith,,Age is 38 years,Chennai,2022-11-10,,3330,2.0,sanchezamy@hotmail.com,2269627668,USA
+CUST0643,Leslie House,Other,Age is 36 years,Indore,2024-07-05,,₹10403,5.0,pvaughn@gmail.com,+1-725-477-0033x8253,Canada
+CUST0644,David Lewis,Female,,Chennai,2024-05-04,2026-01-24,6570,3.0,sharonbryant@hotmail.com,001-659-604-1854x9053,UK
+CUST0645,Paul Johnson,Female,49,Chennai,2022-06-21,2025-10-05,,,rmercer@gmail.com,+1-767-727-0849x6725,
+CUST0646,Nicholas Marsh,Other,,Bhopal,2023-02-16,2024-11-11,₹11136,2.0,hoffmanandrea@walsh.info,+1-337-120-4170,UK
+CUST0647,Carol Morales,Male,Age is 32 years,Mumbai,2023-08-30,2026-02-02,₹20878,4.0,gperkins@long.info,(005)233-5604x837,Canada
+CUST0648,Dawn Green,Other,41 yrs,Delhi,2024-03-27,2026-04-03,₹39166,4.0,theresastewart@yahoo.com,4640418293,
+CUST0649,,Male,Age is 26 years,Pune,2021-06-14,2025-10-19,32923,3.0,johnbaker@hotmail.com,+1-816-768-1028x567,India
+CUST0650,Jose Chapman,Female,,Delhi,2024-10-26,,₹36456,,mmartin@coleman.com,001-543-426-9605,UK
+CUST0651,Michael Blake,Other,45 yrs,,2025-04-03,2025-03-16,₹15018,2.0,dthompson@hotmail.com,126-256-3791x08500,India
+CUST0652,Justin Gentry,Male,,Chennai,2021-06-30,2025-08-02,,5.0,michael33@joyce.com,+1-299-857-2082x035,
+CUST0653,Daniel Reed,Female,38 yrs,Mumbai,2024-09-21,2025-12-20,₹22380,5.0,peter59@hotmail.com,001-837-912-2814x984,
+CUST0654,Martha White,Other,56 yrs,Bhopal,2021-05-16,2026-03-19,₹42427,1.0,juliemoore@gmail.com,776.556.0929,USA
+CUST0655,Angel Williams,Female,20,Delhi,2026-03-21,2024-12-31,,1.0,fergusonjacob@rodriguez.com,12345,Canada
+CUST0656,Morgan Wright,Female,Age is 22 years,Indore,2022-08-18,2025-04-14,,2.0,brendagoodwin@hotmail.com,+1-201-595-4664,India
+CUST0657,Frank Myers,Female,45 yrs,Chennai,2024-03-27,2024-12-25,22888,1.0,wrong_email.com,001-885-774-9429x57482,USA
+CUST0658,Lisa Lowe,Female,,Indore,2024-05-26,2025-04-27,19300,2.0,olsonalexander@yahoo.com,962-819-2147x44661,
+CUST0659,Joel Morales,Female,Age is 55 years,,2021-07-03,,₹34963,,martinezanita@sutton-cline.biz,12345,India
+CUST0660,Lisa Guerra,Male,,Mumbai,2025-05-11,2024-05-17,,1.0,robertsamy@haley.com,(495)124-3127x9175,UK
+CUST0661,,Male,44,Chennai,2022-06-02,2025-04-03,13020,1.0,zunigaashley@alvarez.com,+1-451-036-3106,India
+CUST0662,Lisa Rodriguez,Male,60,Indore,2022-12-31,2026-01-04,,,grossjennifer@rodriguez-thomas.com,(179)930-6947x9551,Canada
+CUST0663,Linda May,,Age is 25 years,Indore,2021-12-14,2024-12-31,,2.0,melissacox@beasley.biz,+1-056-796-0495x60221,UK
+CUST0664,Brian Moran,Female,41 yrs,Delhi,2024-07-31,2024-07-03,₹40315,2.0,kellerdawn@moore-quinn.com,+1-323-059-3716x0132,USA
+CUST0665,David Diaz,,,,2025-12-01,,₹45970,5.0,lesterjames@hotmail.com,8186068502,Canada
+CUST0666,Jennifer Lester,Other,29 yrs,Mumbai,2021-12-31,2025-05-08,₹1958,5.0,keithmary@robbins-gonzalez.com,(322)472-2574,USA
+CUST0667,,,26,Pune,2021-12-04,2026-05-01,,4.0,timothy87@hotmail.com,969.126.2387x5387,India
+CUST0668,Ronnie Villa,Male,,,2022-01-28,2026-03-01,₹38334,3.0,christopherballard@bailey.com,114-537-2196,India
+CUST0669,Robert Hamilton,,39 yrs,,2023-08-10,2026-03-15,8297,2.0,wrong_email.com,833-346-4584,USA
+CUST0670,Thomas Green,,,Bhopal,2022-10-16,2025-02-12,₹26997,5.0,wrong_email.com,8825124628,
+CUST0671,Stephanie Taylor,Other,,,2024-11-12,2025-12-07,,3.0,porterkurt@campbell.com,(649)347-3619,USA
+CUST0672,Stephen Tran,,Age is 27 years,Indore,2024-10-29,2025-03-26,5729,5.0,wrong_email.com,(758)175-1019x531,
+CUST0673,Adriana Garcia,Male,25 yrs,Indore,2024-05-26,2025-06-05,,,wrong_email.com,+1-955-586-3140,USA
+CUST0674,Mary Church,Female,34,,2026-02-28,2025-03-13,,4.0,frostmisty@yahoo.com,+1-737-748-7031,India
+CUST0675,Robert Jones,Female,33,Pune,2022-05-11,2025-07-30,₹8909,2.0,kingeric@gmail.com,(376)613-1497x13767,
+CUST0676,Linda Stewart,Female,,Mumbai,2024-04-11,2025-07-25,,5.0,taratorres@yahoo.com,389-984-5801x803,USA
+CUST0677,Randy Johnson,Other,53,,2021-05-12,2025-12-23,₹26707,4.0,murraytaylor@nguyen.net,(267)927-3232x76435,India
+CUST0678,James White,Other,,Pune,2022-03-31,2026-01-23,₹26494,2.0,michelle80@bryant-hickman.net,+1-134-993-5994x3791,India
+CUST0679,Amy Sanders,Female,,,2023-03-31,2024-10-08,14825,5.0,heather57@yahoo.com,(238)892-3784x9353,
+CUST0680,Mrs. Taylor Hernandez,Other,,Chennai,2025-04-21,,16020,5.0,raymondshelby@gmail.com,470.711.5035x3609,USA
+CUST0681,Morgan Reid,Female,38,Delhi,2023-02-26,2025-05-09,19722,1.0,lindacontreras@clark.com,(866)297-9673x583,Canada
+CUST0682,Adam Carter,Male,,,2025-10-08,,,3.0,johnbeard@gross.com,(690)375-9267,
+CUST0683,Stephanie Chambers,,46 yrs,Mumbai,2024-07-23,2024-10-09,42254,4.0,jeremyroberts@robinson-le.com,578-544-5556x0099,India
+CUST0684,Brent Foster,Female,25,Delhi,2023-12-17,2026-04-26,,2.0,qjensen@cannon-williamson.com,(851)660-7171x2002,Canada
+CUST0685,Valerie Rivera,,Age is 28 years,Delhi,2022-11-14,2025-02-08,26405,1.0,guerraanthony@turner.com,+1-097-699-3725x3557,
+CUST0686,Joshua Sharp,Female,59,Indore,2023-01-26,2025-07-16,36286,,jeffreylewis@gmail.com,001-036-471-3823x122,USA
+CUST0687,Danny Nelson,,Age is 37 years,Pune,2024-06-20,,,5.0,rodneyhansen@hotmail.com,(930)076-8211x1298,India
+CUST0688,Cindy Snyder,Male,,Bhopal,2023-08-12,2025-10-09,45897,,marychapman@hutchinson.com,(682)575-3313x71948,USA
+CUST0689,Darren Joseph,,Age is 20 years,Delhi,2023-03-18,,₹14202,3.0,cory26@nguyen-haley.org,775-441-0284x08257,India
+CUST0690,James Reeves,Male,,Delhi,2024-01-16,2025-08-19,7997,1.0,davidbaker@watson-brown.biz,978-516-6117,Canada
+CUST0691,,,48,Chennai,2024-03-01,,,1.0,nicholas82@yahoo.com,(301)835-6564,UK
+CUST0692,Frank Davenport,Female,,Pune,2021-06-15,2024-08-26,,3.0,wrong_email.com,062-708-1474x89532,Canada
+CUST0693,Barry Peters,Other,,Chennai,2023-11-01,2025-09-14,,3.0,kristinaustin@smith.com,12345,
+CUST0694,Mariah Perry,Female,Age is 25 years,,2023-09-28,2025-09-10,₹25242,,theresa71@camacho.org,(684)877-9301,
+CUST0695,Aaron Swanson,Other,Age is 56 years,Chennai,2023-12-25,2025-08-13,34201,2.0,llynn@smith.com,+1-173-942-4138,Canada
+CUST0696,William Cook,Other,38 yrs,Indore,2024-08-30,2024-07-11,,5.0,wrong_email.com,302.749.7290,Canada
+CUST0697,Jeffrey Trujillo,Female,50 yrs,Bhopal,2022-01-25,2025-09-03,,1.0,webbsuzanne@cabrera.net,+1-416-661-8327x1741,Canada
+CUST0698,Jacob Vaughan,,Age is 47 years,Chennai,2025-10-10,2025-12-19,₹23577,3.0,hillmegan@yahoo.com,+1-545-297-8837x6502,Canada
+CUST0699,Brian Hale,,47,Chennai,2022-09-27,2025-08-01,₹19746,2.0,tammysmith@haley-medina.com,141-758-9993x93028,Canada
+CUST0700,Jessica Rogers,Male,25,Pune,2024-01-25,2026-01-29,35603,,diazsarah@jones-mcconnell.com,001-050-933-8165,UK
+CUST0701,Todd Quinn,Male,28 yrs,Delhi,2025-02-09,2024-06-12,₹8935,3.0,jacqueline12@yahoo.com,7815766128,
+CUST0702,Cheryl Mckinney,Other,,Delhi,2025-02-25,2024-05-27,₹39027,,conwaytasha@drake-hall.com,001-541-515-7474,UK
+CUST0703,,,,,2026-04-26,,,3.0,carrie01@wilson.com,7535665436,Canada
+CUST0704,Erin Stephens,,,Bhopal,2024-04-29,2025-11-01,,,bakerjillian@smith-henson.com,+1-820-133-2191x878,India
+CUST0705,Michael Fox Jr.,Other,36 yrs,Pune,2022-01-03,2024-11-01,18045,1.0,paulasimpson@martinez.com,+1-772-293-8842x4969,
+CUST0706,Jeremy Morris,Other,,Delhi,2021-08-07,2024-09-13,₹46280,2.0,ijacobs@yahoo.com,501.876.1766x7546,Canada
+CUST0707,Kaitlyn Castro,Male,,Chennai,2024-08-15,2025-10-02,,2.0,wrong_email.com,831-531-0865x74042,
+CUST0708,Thomas Olsen,,39 yrs,Pune,2021-11-10,2024-05-17,18876,5.0,cdonovan@fox.biz,(212)022-8885x97077,India
+CUST0709,Nathan Smith,,29 yrs,Bhopal,2022-11-09,2025-08-31,,4.0,michele35@gmail.com,+1-431-382-9824,Canada
+CUST0710,Joseph Johnson,,34,Chennai,2025-02-09,2024-08-21,,3.0,wrong_email.com,+1-960-095-4921x649,USA
+CUST0711,Steven Nguyen,Female,,Delhi,2026-01-03,2024-07-25,16829,1.0,colemankatie@yahoo.com,12345,UK
+CUST0712,Darryl Williams,,36,Bhopal,2023-10-31,,34216,,nicholsvirginia@gmail.com,+1-376-087-4322,
+CUST0713,Jessica Wright,Female,,Bhopal,2026-05-04,2025-06-28,,2.0,wrong_email.com,(794)593-5932,USA
+CUST0714,Joseph Benson,Other,22 yrs,Mumbai,2025-07-28,,2183,1.0,linda55@lee.com,391.029.5126x916,UK
+CUST0715,Brent Mata,,,Indore,2023-08-26,2025-09-23,7601,4.0,stephen89@gmail.com,7187729497,India
+CUST0716,Anthony Ramirez,,21 yrs,Bhopal,2024-06-14,2025-07-28,,1.0,jeremiah25@lester-foster.com,+1-850-297-5510x33817,USA
+CUST0717,Sandra Cherry,Male,Age is 46 years,Pune,2022-02-26,2025-11-19,15419,3.0,simmonsjasmine@hotmail.com,120-349-0295x04707,UK
+CUST0718,Lisa Reeves MD,,21,Bhopal,2021-11-11,2025-09-25,₹1187,2.0,gonzalezkaren@gmail.com,055.438.7763,UK
+CUST0719,Anthony Caldwell,Female,24,Pune,2021-07-29,2024-12-16,44884,1.0,yrichmond@hotmail.com,(814)947-3582x708,Canada
+CUST0720,Anthony Jackson,Other,Age is 39 years,Mumbai,2022-05-08,2024-08-21,₹16060,5.0,tracy61@gmail.com,357-198-4810x2863,UK
+CUST0721,Tyler Roth,Male,Age is 51 years,Chennai,2025-02-06,2024-09-26,45927,3.0,wjones@gmail.com,(271)132-6612x4017,UK
+CUST0722,Brandon Bauer,,19,Delhi,2025-11-19,,₹41662,1.0,victoriaallen@snyder.com,8704051949,USA
+CUST0723,Jared Floyd,Male,23 yrs,Chennai,2025-09-01,2026-02-11,,2.0,jamesgarcia@carter.com,7296130736,India
+CUST0724,Juan Harris,Other,Age is 50 years,Mumbai,2023-08-01,,₹6927,1.0,michellesanchez@yahoo.com,001-308-505-8229x7061,USA
+CUST0725,Benjamin Oneill,,38,Mumbai,2025-11-29,2025-08-31,,4.0,richardthomas@gmail.com,915-657-2862x222,USA
+CUST0726,Antonio Reyes,Female,,Bhopal,2022-05-21,2025-07-07,,1.0,wrong_email.com,12345,USA
+CUST0727,Hunter Mcknight,,43 yrs,,2022-02-12,,39279,1.0,hughesshannon@young.org,12345,India
+CUST0728,Andrea Jones,Other,35 yrs,Mumbai,2023-02-28,2024-05-16,,1.0,michaelhendrix@lara.com,001-535-540-3582x40344,Canada
+CUST0729,Eric Wells,Male,43,Pune,2021-07-23,2024-07-13,10029,3.0,jennifermontoya@hotmail.com,(628)274-7893,Canada
+CUST0730,James Dominguez,Other,Age is 29 years,,2023-06-08,2024-12-10,₹3208,2.0,masondaugherty@martinez.org,12345,
+CUST0731,Austin Marshall,,25 yrs,Delhi,2026-03-24,2024-08-01,6324,4.0,alyssa35@hotmail.com,795.711.9059x2257,Canada
+CUST0732,Alexandra Sanford,Male,,Pune,2022-01-12,2026-03-08,₹5205,3.0,andrew14@richmond.com,(694)451-3567x71195,UK
+CUST0733,,,Age is 35 years,Mumbai,2022-12-29,2025-03-07,₹12177,5.0,wrong_email.com,723.767.0069x0104,UK
+CUST0734,Lynn Wood,Female,34,,2023-02-06,2026-04-23,₹17892,,wrong_email.com,581.370.2949,Canada
+CUST0735,Cristian Peters,,Age is 31 years,Pune,2025-01-09,2025-03-16,,3.0,wrong_email.com,8185069514,UK
+CUST0736,Susan Davis,,Age is 36 years,Indore,2025-09-02,2025-07-09,32763,2.0,alvaradoalbert@hotmail.com,069.390.5409,
+CUST0737,Miss Marissa Evans,Other,48,Mumbai,2022-10-18,2025-10-13,19535,,mendozawilliam@horne.com,234.405.4917,Canada
+CUST0738,Brandon Tucker,Female,,Delhi,2025-11-28,2025-09-21,15417,2.0,melissadrake@noble-thomas.com,977-482-8399,
+CUST0739,David Hubbard,Other,Age is 40 years,Indore,2024-08-30,2024-09-14,,4.0,wrong_email.com,12345,UK
+CUST0740,Sarah Snyder,,Age is 22 years,,2026-02-08,,49330,3.0,wrong_email.com,001-796-420-1536,
+CUST0741,Timothy Wilson,Other,Age is 27 years,Mumbai,2025-11-29,2024-10-14,,2.0,jeffreybernard@dickerson-garcia.info,536-383-3521,
+CUST0742,James Mcclain,Male,Age is 18 years,Pune,2026-03-28,2025-02-11,47152,1.0,donald09@oconnor.info,+1-534-183-6310x6975,Canada
+CUST0743,,Female,29,,2024-11-11,2025-10-02,8865,3.0,thomas51@yahoo.com,12345,India
+CUST0744,Jason Blackwell,Other,Age is 32 years,Chennai,2025-09-28,2025-10-21,₹23371,5.0,brandonjordan@hotmail.com,(193)688-8980,
+CUST0745,Christopher Rosales,Female,33,Mumbai,2026-03-10,2025-11-23,,3.0,wrong_email.com,12345,India
+CUST0746,Kristine Hammond,Other,Age is 27 years,Delhi,2021-10-10,2025-09-24,46365,3.0,moorewhitney@hotmail.com,077.849.8568,UK
+CUST0747,Heather Patterson,Other,44,Indore,2025-07-03,2024-10-03,5910,2.0,cunderwood@hotmail.com,285-314-6725x525,Canada
+CUST0748,Jon Cooper,,59 yrs,Chennai,2023-12-04,2024-12-13,₹14387,5.0,wrong_email.com,739-381-7896x8516,Canada
+CUST0749,Steven Bishop,Other,Age is 32 years,Chennai,2023-04-29,2026-02-23,,2.0,aboone@burton.com,12345,Canada
+CUST0750,Nathan Thomas,Male,29 yrs,Mumbai,2025-05-13,2024-08-02,10638,,tsmith@taylor.com,001-226-242-4890x4987,UK
+CUST0751,Peggy Fischer,Female,33 yrs,Bhopal,2024-04-03,2025-10-12,31608,3.0,ekim@wall-smith.org,602-588-5021,USA
+CUST0752,,Female,Age is 34 years,Indore,2022-10-16,2025-09-29,14944,3.0,eduardo79@clark.org,418.904.3830x87612,UK
+CUST0753,Dale Hart,Male,55 yrs,Pune,2023-09-06,2025-01-05,₹39769,,wrong_email.com,246-620-3395x1689,UK
+CUST0754,Jonathan Ballard,,21,Chennai,2023-01-23,2026-02-15,₹18164,2.0,kelly68@gmail.com,12345,UK
+CUST0755,Monica Miller,Female,,Chennai,2023-12-19,2025-10-12,49150,4.0,zrose@yahoo.com,001-157-866-0390x4193,Canada
+CUST0756,Amber Mills,Other,51,Chennai,2025-01-26,2025-08-05,₹5523,3.0,rmurphy@gmail.com,8030763756,India
+CUST0757,Shannon Smith,,,Bhopal,2023-10-26,2024-09-22,,5.0,leslie19@yahoo.com,+1-768-701-2849x154,Canada
+CUST0758,Sandra Oneill,Other,Age is 59 years,Bhopal,2025-01-20,2025-02-13,₹41554,2.0,wrong_email.com,+1-103-688-7659,India
+CUST0759,Jennifer Hughes,Male,19,Pune,2023-10-14,2025-06-24,₹20472,,evantapia@collins-lucas.com,+1-352-199-4652x327,Canada
+CUST0760,Jesus Jensen,Male,,Indore,2023-01-18,2024-09-26,₹46660,2.0,heathercastro@davis.com,+1-358-344-0955x3439,USA
+CUST0761,Jason Noble,Female,,Indore,2024-10-31,2025-02-24,₹48628,4.0,vguerrero@gmail.com,858.852.0187,USA
+CUST0762,Christine Webb,Male,,Mumbai,2022-01-15,,,5.0,wrong_email.com,229-306-9135x60810,India
+CUST0763,Barry King,Female,Age is 33 years,Pune,2023-12-03,2025-10-05,,,hcisneros@wilson.com,12345,
+CUST0764,Henry Whitaker,,Age is 37 years,Mumbai,2025-07-11,2025-10-02,₹38521,5.0,travis87@watkins.net,872-753-6462x0999,USA
+CUST0765,Jose Brown,Male,29,Pune,2023-11-13,2025-09-27,,1.0,davilagregory@jacobs.com,128-228-3805,UK
+CUST0766,Jordan Reed,Male,55,Indore,2022-02-17,2025-07-08,,1.0,odelgado@yahoo.com,+1-360-303-8566,India
+CUST0767,Carlos Chase,Male,26 yrs,Bhopal,2024-05-27,2025-06-02,20902,3.0,wrong_email.com,(489)294-3130x33924,
+CUST0768,Mary Mclaughlin,,,Bhopal,2023-06-12,2024-10-22,29751,4.0,kenneth22@yahoo.com,001-484-340-5077x29804,UK
+CUST0769,Rebecca Warren,Female,40,Delhi,2025-06-19,2024-10-30,14233,3.0,sara73@schultz.com,144-738-6230x48196,India
+CUST0770,Joseph Brown,Male,25,Indore,2024-07-28,,22429,1.0,tsalinas@hotmail.com,(611)192-9777x3030,UK
+CUST0771,Stephanie Bell,Other,Age is 32 years,Pune,2022-07-23,2024-06-03,34544,2.0,garzawesley@yahoo.com,001-177-040-5667x58074,UK
+CUST0772,Kathleen Johnson,Male,19 yrs,Mumbai,2021-05-20,,₹32156,,harveydavid@jordan.biz,001-440-908-6987x4703,India
+CUST0773,Ronald Evans,,47 yrs,Bhopal,2024-07-06,,5220,1.0,vsimpson@gmail.com,(322)223-4503,
+CUST0774,Andrea Cooper,Male,,Indore,2022-02-16,2026-04-24,,,dbarnes@yahoo.com,664-086-2445,
+CUST0775,Leslie Santos,Male,42,Pune,2022-07-20,2026-01-24,₹43426,5.0,cookalyssa@yahoo.com,001-765-768-7657x7542,Canada
+CUST0776,,Female,Age is 26 years,Mumbai,2022-04-22,2026-02-22,,2.0,qjohnson@edwards.com,12345,Canada
+CUST0777,Luis Blackburn,,47,Chennai,2023-02-04,2024-06-03,7193,5.0,mark91@martin.com,001-331-197-0125x3736,Canada
+CUST0778,Christopher Thompson,Female,39,Chennai,2025-12-12,2025-12-31,,1.0,hartgabrielle@gmail.com,+1-024-911-3774x59444,
+CUST0779,Katherine Russell,,,Delhi,2021-07-27,2026-03-14,14607,5.0,dbrown@hotmail.com,12345,
+CUST0780,Erin Sanders,,,,2021-10-29,2024-06-01,₹29967,1.0,christina76@gregory.com,+1-157-851-3896x49217,India
+CUST0781,Andrew Sandoval,,54 yrs,Bhopal,2023-10-02,,₹8515,1.0,carrierobinson@hotmail.com,001-449-144-5602x517,UK
+CUST0782,Paul Reyes,,Age is 32 years,Delhi,2026-01-29,2025-07-22,36835,4.0,uharris@fox.com,(753)822-6017x2780,
+CUST0783,,Male,Age is 38 years,Indore,2024-03-19,2024-11-19,₹18540,2.0,bsmith@glass-vega.net,001.503.2747x952,USA
+CUST0784,Andrea Burke,,Age is 32 years,Indore,2021-05-18,2025-05-23,,,fsimpson@hotmail.com,816.020.9424x87151,
+CUST0785,Natalie Gill,Male,,Pune,2024-06-05,2025-12-06,,2.0,taylorjennifer@johnson-brown.org,+1-139-862-3716x757,Canada
+CUST0786,Emily Acevedo,Other,52,Indore,2026-05-02,2024-11-23,17457,4.0,suemartinez@gmail.com,333-429-9126x22864,USA
+CUST0787,,,Age is 18 years,Bhopal,2025-06-18,2024-12-10,₹40353,4.0,parkeramanda@gmail.com,+1-831-680-8492x5305,USA
+CUST0788,Rebecca Butler,Male,Age is 36 years,Delhi,2025-04-27,2025-10-22,23206,3.0,amber42@cole.info,0835298599,USA
+CUST0789,,Male,,Mumbai,2024-01-07,2026-05-06,₹1440,1.0,harriserin@velazquez-garcia.net,(965)242-9557,India
+CUST0790,Christopher Howard,,Age is 52 years,Pune,2022-05-08,2025-09-04,,,morgandonaldson@flynn-moreno.com,+1-150-229-6237x306,
+CUST0791,Dawn Davis,Other,20 yrs,Indore,2024-10-02,2025-05-06,,3.0,danielsleslie@berry-oliver.com,(173)280-3961x55243,USA
+CUST0792,Carla Harding,Other,42 yrs,Pune,2025-01-06,2025-05-18,22426,2.0,zimmermanjoseph@yahoo.com,12345,USA
+CUST0793,Tracey Jordan,Female,,Indore,2023-12-24,2026-04-22,₹46304,1.0,christinetorres@holmes.com,8646323059,USA
+CUST0794,Nicholas Huffman,Female,42,Pune,2021-05-24,2025-08-23,,4.0,justin99@taylor-ellis.com,(994)434-6660,India
+CUST0795,Kathleen Wang,Male,Age is 60 years,Mumbai,2025-03-19,2025-04-10,4129,,toddmelanie@yahoo.com,210.381.5380x39599,Canada
+CUST0796,Michael Snyder,Male,Age is 43 years,Indore,2023-08-03,,43420,2.0,richardbrown@hotmail.com,264.695.5086,India
+CUST0797,Thomas Clarke,Female,,Pune,2022-08-15,2024-10-31,₹23595,5.0,wrong_email.com,12345,USA
+CUST0798,Kimberly Brady,Female,24,Mumbai,2023-07-29,2024-11-13,24069,1.0,jonesbryan@hotmail.com,(650)373-7452,India
+CUST0799,Marilyn Sullivan,,33 yrs,Chennai,2025-10-24,2025-01-28,43209,5.0,thompsonemily@hotmail.com,280-242-4010x1087,USA
+CUST0800,Mary Marshall,Male,,Chennai,2022-07-14,2025-10-05,₹42341,2.0,wrong_email.com,+1-800-493-5043x37045,UK
+CUST0801,,Female,37 yrs,Bhopal,2022-06-01,2024-05-20,1123,,mendozarichard@hernandez-smith.com,+1-566-904-4105x171,USA
+CUST0802,Sean Ponce,Male,43,Delhi,2024-01-11,2025-01-23,₹5731,5.0,anthonyray@garcia.biz,12345,India
+CUST0803,Whitney Welch,,,Mumbai,2023-04-12,2024-07-24,,5.0,mgordon@gmail.com,(350)285-9955x1684,India
+CUST0804,Virginia Hernandez,,29 yrs,Indore,2024-05-05,2024-09-08,,1.0,ewalker@collins-smith.com,(386)156-1247,
+CUST0805,Catherine Dyer,Male,,Delhi,2024-11-02,2025-08-25,₹19477,2.0,khendricks@garrett.org,435.722.4364,UK
+CUST0806,Cynthia Merritt,,51,Indore,2026-05-03,,,2.0,joelcurry@hotmail.com,674.991.5435x7096,USA
+CUST0807,Javier Carson,Other,32,Bhopal,2025-12-22,2025-07-15,37535,4.0,wrong_email.com,001-614-270-5011x6891,USA
+CUST0808,David Chandler,Other,,Bhopal,2023-06-08,2026-05-05,,4.0,ygross@hotmail.com,958.972.2107x420,Canada
+CUST0809,Alexander Jackson,Other,,Pune,2024-12-11,2024-12-24,,3.0,christopherrichardson@gmail.com,+1-177-444-8068,Canada
+CUST0810,Timothy Gilbert,Other,41 yrs,,2024-07-22,2025-03-07,,5.0,ydelacruz@kelley-castaneda.com,617.968.3211x160,
+CUST0811,Richard Miller,Other,,Pune,2025-08-07,2026-02-01,,5.0,megan83@hotmail.com,(206)955-2302x99891,
+CUST0812,Christine Dillon,,,Delhi,2024-02-11,,16422,5.0,wrong_email.com,689.985.7769x86489,UK
+CUST0813,Jonathan Ramirez,Female,57 yrs,Chennai,2022-07-08,2024-12-13,43303,,karinabartlett@aguilar.com,(215)966-4435,Canada
+CUST0814,Karen Cruz,Male,,,2023-08-03,2025-10-20,,4.0,charlesmorse@oliver.com,+1-843-395-5215,Canada
+CUST0815,Curtis Hinton,Male,,Chennai,2022-08-26,2025-09-24,23292,5.0,larry37@cunningham.info,+1-949-433-7582x59024,Canada
+CUST0816,Rodney Chavez,Other,Age is 44 years,Indore,2025-03-18,2025-04-17,11554,2.0,stephensonchristopher@yahoo.com,944.055.2534x91330,USA
+CUST0817,David Cook,Male,Age is 54 years,Mumbai,2024-05-04,2025-04-09,₹10638,,jwillis@alexander-phillips.com,012.531.0208x2624,
+CUST0818,Heather Taylor,,Age is 21 years,Indore,2023-02-18,2024-09-30,15332,1.0,stephensweeney@quinn.info,414-127-4389x211,Canada
+CUST0819,Sara Wade,Other,Age is 20 years,Indore,2025-04-20,2026-03-14,₹16818,3.0,chungmary@hotmail.com,556.297.2726,India
+CUST0820,Michele Thomas,,47,Delhi,2021-07-18,2026-01-02,,,woodashley@kelly.net,472-070-2586x665,India
+CUST0821,Andrea Atkinson,Female,35 yrs,Bhopal,2026-05-03,2025-01-06,1114,,vblanchard@gmail.com,0856454029,USA
+CUST0822,Susan Anderson,,,Chennai,2025-01-06,2025-06-26,,5.0,joshua87@hotmail.com,217.333.9190x018,India
+CUST0823,Elijah Sanders,Other,52 yrs,,2023-10-31,2025-12-04,46186,4.0,zallen@hotmail.com,073-822-2123,UK
+CUST0824,Julie Thompson,Male,39,Delhi,2021-06-15,2025-01-16,37554,4.0,qdurham@hotmail.com,334-900-5658x2499,
+CUST0825,Laurie Johnson,Other,Age is 47 years,Indore,2025-06-20,2026-04-19,₹3819,,kristinascott@taylor-jones.com,+1-848-018-0970x1038,USA
+CUST0826,Joshua Torres,Other,27,Pune,2024-03-16,,24876,2.0,shawn97@morris.biz,001-135-950-3141x6908,UK
+CUST0827,Teresa Martinez,,Age is 50 years,Chennai,2025-01-19,2026-01-05,8759,4.0,jeffrey86@gmail.com,695-148-4278x47768,UK
+CUST0828,Brian Wiley,Male,,Indore,2021-06-26,2025-05-31,10153,1.0,davilaconnie@long-perry.com,554-852-9028x331,Canada
+CUST0829,Jessica Alvarez DDS,Other,,Mumbai,2024-05-14,2024-08-25,₹8940,,stephendavies@davis-glenn.com,(165)277-3482x50034,
+CUST0830,Justin Robinson,Other,47 yrs,Mumbai,2026-02-17,2024-08-03,18647,,bradleyparker@yahoo.com,(159)921-8883x23786,India
+CUST0831,Jennifer Underwood,Female,,Mumbai,2021-09-10,2024-12-20,9968,2.0,guerrerojamie@johnson.com,329-754-0391,
+CUST0832,Gary Perez,Male,,Pune,2023-10-22,2025-07-08,,3.0,hnorman@yahoo.com,001-720-357-3959x0776,USA
+CUST0833,Alexandria Mcgee,Other,,Indore,2022-06-18,2026-03-30,24511,3.0,schultzvalerie@gmail.com,001-121-818-7404x17839,
+CUST0834,Lindsay Murray,,,Bhopal,2022-07-15,2026-04-16,,2.0,wrong_email.com,665.563.3250x7519,UK
+CUST0835,Krista Oneill,Female,49 yrs,Pune,2024-12-19,2026-04-04,₹46798,2.0,cardenasmichael@miller.org,838-730-1065x914,India
+CUST0836,Sean Castillo,Other,,Pune,2023-09-06,2026-04-02,,4.0,douglas33@yahoo.com,001-410-097-7829x888,
+CUST0837,Alicia Frank,,25 yrs,,2024-03-25,2025-07-21,,2.0,margaret37@hotmail.com,(561)384-6016x272,Canada
+CUST0838,Katherine Rice,Male,42,Mumbai,2025-06-30,2024-11-06,,2.0,travischoi@yahoo.com,(433)070-0690x01324,USA
+CUST0839,Teresa Miller,Female,Age is 22 years,Mumbai,2024-10-04,2024-11-08,27325,,wmartin@gmail.com,12345,India
+CUST0840,Michelle Lewis,Female,,Mumbai,2021-12-28,,48288,4.0,blake44@williams-copeland.com,170-787-4787,UK
+CUST0841,,Female,34 yrs,,2022-08-02,2025-04-11,,,meadowsmary@yahoo.com,871-910-1839x855,Canada
+CUST0842,Shannon Barnes,Female,,Bhopal,2024-08-28,2025-02-04,,,jennifer06@hotmail.com,643.051.5074x8999,Canada
+CUST0843,Jamie Zavala,Other,50,,2024-05-28,2025-07-31,₹13208,5.0,mphillips@charles.com,+1-424-678-2491x1796,UK
+CUST0844,Katie Hernandez,Other,54,Delhi,2021-07-30,2024-05-23,36809,1.0,jacob85@hotmail.com,6013873214,
+CUST0845,Jeffrey Dickerson,,Age is 22 years,Mumbai,2023-07-13,,47853,5.0,wrong_email.com,001-813-007-5716x892,USA
+CUST0846,Megan Tran,Other,57 yrs,Mumbai,2025-01-02,2024-08-29,₹29371,2.0,fpayne@moore.net,989.565.0288,India
+CUST0847,Melissa Robinson,Male,,Indore,2022-08-17,2025-12-06,,3.0,wrong_email.com,+1-360-539-5001x41433,India
+CUST0848,Jennifer Parker,Female,51,Chennai,2024-05-05,2024-09-11,,3.0,wrong_email.com,001-940-548-2039x299,USA
+CUST0849,Joshua Ortiz,Male,Age is 51 years,,2025-08-31,2025-12-20,33192,3.0,rfisher@yahoo.com,(278)688-8659x05498,
+CUST0850,Benjamin Rowland,Other,24,Delhi,2021-12-08,2025-07-30,24902,,wrong_email.com,12345,UK
+CUST0851,Michelle Vasquez MD,Other,Age is 47 years,Mumbai,2025-03-05,,₹44163,4.0,sydney76@yahoo.com,001-164-608-7626x260,Canada
+CUST0852,,Male,48 yrs,Chennai,2021-12-28,2025-11-03,19182,5.0,veronica12@woodard.org,248-406-2678,USA
+CUST0853,Courtney Carter,Other,28,Bhopal,2023-07-10,2024-07-26,₹44117,,davislisa@hotmail.com,+1-591-417-2516,Canada
+CUST0854,Amy Campbell,Male,Age is 30 years,Indore,2022-07-21,2024-07-10,,4.0,alan92@burke.net,768-621-2075x4496,Canada
+CUST0855,Ian Davis,Male,Age is 35 years,Bhopal,2022-06-16,,₹2822,2.0,ssmith@yahoo.com,12345,India
+CUST0856,Victor Martin,Other,57,,2021-11-28,2026-01-12,₹46402,3.0,gary87@gmail.com,(242)139-0334x72382,Canada
+CUST0857,Randall Gordon,Female,21,Mumbai,2025-10-18,2026-02-20,₹13354,2.0,thompsonleonard@yahoo.com,001-395-817-3163,USA
+CUST0858,Karina Williams,,21,Mumbai,2024-04-18,2025-10-26,5589,4.0,bowenbrian@cervantes.net,001-067-489-3526x86671,India
+CUST0859,Jessica Rodriguez,,60,Delhi,2024-12-01,,,,wrong_email.com,000.073.6690x49364,
+CUST0860,Timothy Chavez,Female,,Pune,2023-03-27,2025-01-11,₹1442,4.0,michael47@snyder.org,001-265-533-2931x0761,
+CUST0861,Steven Johnson,,35,,2021-10-25,2025-03-28,,,michelle80@hotmail.com,+1-050-237-5442x668,USA
+CUST0862,Mary Boyd,Female,,Delhi,2024-04-28,2024-12-06,,,coxsamantha@yahoo.com,(850)264-6528x0992,
+CUST0863,Edward Black,,28,,2022-02-02,2026-04-30,,1.0,gravespaul@morton-ross.org,540-622-7740x9211,UK
+CUST0864,Laura Goodman,,,Delhi,2024-02-09,2025-03-21,,5.0,laurenbush@hotmail.com,+1-418-112-7417x8596,Canada
+CUST0865,,,19,,2023-04-15,2025-10-31,22539,5.0,jennifersweeney@sheppard-rodriguez.info,(544)897-3100,UK
+CUST0866,Shelby Ayers,Other,47 yrs,,2022-05-19,,₹37250,,leeperez@hudson.com,0165352814,Canada
+CUST0867,Donald Jenkins,Male,Age is 54 years,Delhi,2024-07-29,2025-05-16,₹2252,,ddavila@yahoo.com,(730)708-8341x874,UK
+CUST0868,Michael Gates,Other,57,Mumbai,2026-01-27,2024-07-29,28364,3.0,cclarke@hotmail.com,001-133-065-7713x000,
+CUST0869,Angela Bailey,Female,21 yrs,Pune,2024-12-09,,21126,4.0,harrisonrobert@underwood.org,(876)752-5779x8389,UK
+CUST0870,Deborah Matthews,Male,Age is 56 years,Chennai,2022-08-27,2025-02-25,,,gthomas@anderson.com,3605583322,India
+CUST0871,Roberta Mccall,Male,,Chennai,2025-03-16,2025-10-11,43743,4.0,wrong_email.com,001-322-911-8038x3948,USA
+CUST0872,Brittany Herrera,Male,,,2023-08-12,2025-07-25,₹38898,1.0,jamesbarnes@hanson-richards.com,+1-334-572-7592x4124,
+CUST0873,James Brown,Female,41 yrs,Mumbai,2022-08-10,2026-02-28,₹39398,2.0,buchananjonathan@gmail.com,12345,UK
+CUST0874,Joshua Edwards,Female,Age is 56 years,Chennai,2025-05-15,2026-01-16,₹13218,,susanevans@hotmail.com,987-870-8703x5060,India
+CUST0875,,,20 yrs,Delhi,2021-06-21,2024-08-16,,2.0,grahamangela@roberson.com,+1-763-519-7909x60143,USA
+CUST0876,Rachel Donaldson,,22,Bhopal,2022-02-26,2026-03-13,9486,3.0,wguerra@yahoo.com,250.396.3226,India
+CUST0877,Megan Simmons,,Age is 54 years,Bhopal,2023-05-05,2025-10-04,,2.0,coltonprice@yahoo.com,001-108-189-7765,UK
+CUST0878,Lisa Mitchell,Other,22 yrs,Mumbai,2024-11-15,2024-07-01,,2.0,stephenfleming@robinson.com,+1-601-473-1359x76664,UK
+CUST0879,Tyler Kelley,Female,20,Delhi,2023-08-10,2026-01-02,34651,,david29@davis.org,7780313362,Canada
+CUST0880,Daniel Carey,Other,,Indore,2022-05-18,2025-09-04,₹32687,1.0,nbates@french.com,001-418-299-6131x8942,Canada
+CUST0881,Bryan Baird,Other,51,Delhi,2025-02-05,2025-08-28,36910,1.0,yarmstrong@yahoo.com,582-451-4179,India
+CUST0882,Brad Roberts,Male,Age is 58 years,Pune,2023-12-08,2024-12-16,,1.0,umatthews@hotmail.com,715.512.1019,UK
+CUST0883,Jose Morales,Male,,Mumbai,2025-07-17,2025-08-22,17492,5.0,thomassilva@harmon.net,+1-140-429-2402,
+CUST0884,Krystal Sims,Other,36,Mumbai,2022-04-10,,37990,3.0,wrong_email.com,12345,
+CUST0885,Latoya Blankenship,,Age is 45 years,Pune,2024-06-29,2024-10-23,₹7394,3.0,wrong_email.com,+1-699-809-5513x8757,UK
+CUST0886,Heather Harvey,Female,,Mumbai,2022-08-19,2025-03-09,,2.0,brandonsanders@hotmail.com,+1-871-220-2984,India
+CUST0887,Christopher Pacheco,Female,46 yrs,Pune,2022-12-22,2025-08-15,4029,3.0,shannon77@hotmail.com,001-160-621-4804x657,Canada
+CUST0888,Billy Pena,,,,2024-08-03,2026-04-14,₹41034,3.0,wrong_email.com,001-904-150-5085x423,Canada
+CUST0889,Dawn Castaneda,,Age is 25 years,Bhopal,2023-04-05,2024-11-09,₹42296,1.0,ysimmons@wilson.com,089-038-7444,Canada
+CUST0890,Karen Kelly,Female,,Mumbai,2023-10-06,2025-10-22,₹27284,1.0,ronaldturner@gmail.com,(319)962-9522x4372,India
+CUST0891,Hannah Jones,,Age is 30 years,Pune,2021-12-24,,,1.0,ijones@jenkins-saunders.com,+1-160-837-7168x575,
+CUST0892,David Smith,Other,Age is 23 years,Pune,2022-08-08,,49544,,mcdonaldmelissa@mullen-franklin.info,001-601-140-4111,
+CUST0893,Amber Fields,,54,,2021-08-20,2025-10-12,48942,,robertkemp@oconnell-williams.com,001-916-701-7647x16057,Canada
+CUST0894,Christie Hill,,Age is 27 years,Bhopal,2025-03-07,,,,campbelltyler@watts.info,(508)026-4159,India
+CUST0895,Mackenzie Peters,,19,Delhi,2022-06-23,2024-12-30,13688,5.0,wrong_email.com,8580693162,India
+CUST0896,Kyle Stevens,Male,,Pune,2023-12-25,2026-04-03,5963,2.0,thompsonwilliam@barnes-vance.info,(269)409-7585x8291,UK
+CUST0897,,Other,Age is 48 years,Delhi,2024-03-15,2025-04-12,,5.0,ojackson@moore.com,(706)940-1387x282,USA
+CUST0898,Jay Wilson,Other,37,Pune,2023-11-13,2025-07-17,₹10183,1.0,stokesrandall@gmail.com,001-979-055-3111x6651,Canada
+CUST0899,Taylor Jackson,Male,43 yrs,Mumbai,2025-01-15,,₹27708,,cassie93@mendoza-davis.net,12345,
+CUST0900,Joshua Molina,Other,Age is 24 years,Chennai,2022-06-24,2026-03-17,,4.0,riddlebruce@gmail.com,+1-613-992-8246x947,
+CUST0901,Nathan Haas,Male,49,Bhopal,2025-03-11,2026-04-05,,,wrong_email.com,(014)657-8654x9081,
+CUST0902,April Thomas,,51 yrs,,2022-01-28,2024-10-02,₹12094,4.0,barrymoreno@cervantes.biz,12345,USA
+CUST0903,Dakota Spence,Female,51,Delhi,2024-09-03,2025-02-08,₹29817,1.0,morganlynch@gallegos.com,001-730-111-2004x1180,India
+CUST0904,James Francis,Male,,,2022-12-02,2024-08-22,₹8069,3.0,wrong_email.com,+1-272-064-0607x4174,India
+CUST0905,Mr. Brian Rose DDS,,27,,2022-06-13,2025-03-29,13263,4.0,jeffrey82@williams-arellano.com,5938054836,UK
+CUST0906,Erica Strong,Other,Age is 53 years,Chennai,2024-06-16,2024-10-19,,,wrong_email.com,+1-244-720-1764x8459,India
+CUST0907,Stephen Jackson,,38,Delhi,2025-05-24,2026-04-02,₹47823,4.0,wrong_email.com,(456)991-9503x19271,
+CUST0908,Amanda Clayton,Other,Age is 46 years,Delhi,2024-05-15,2024-06-02,,5.0,pamelajohnson@gmail.com,12345,USA
+CUST0909,Sandra Sanchez,Female,38,Delhi,2021-11-22,2025-11-22,20104,4.0,stewartmatthew@johnson.biz,(392)378-4484x52650,UK
+CUST0910,Donna Burke,Female,,,2026-02-16,,,1.0,wrong_email.com,(413)886-5131x87811,Canada
+CUST0911,Tammy Silva,Male,,Mumbai,2021-11-27,2025-05-28,8846,1.0,ewilliams@wells-hall.com,(934)977-0944x1730,USA
+CUST0912,Yolanda Rogers,,,Indore,2024-08-08,2024-10-24,,,wrong_email.com,239-135-0318x95638,USA
+CUST0913,Danielle Liu,Other,Age is 18 years,Chennai,2021-11-06,2024-08-21,₹12246,1.0,nina80@yahoo.com,763.871.8176x599,USA
+CUST0914,Joseph Kim,Male,,Chennai,2021-12-02,2025-11-17,₹33476,1.0,marissagolden@yahoo.com,788.787.8319,India
+CUST0915,Mary Davis,,21 yrs,Bhopal,2024-06-20,2025-10-06,4023,5.0,christopherstrickland@gmail.com,544-239-9890,Canada
+CUST0916,Michael Palmer,Male,46,,2021-12-24,2025-04-27,₹49897,3.0,dodsonvalerie@johnson-henderson.com,12345,Canada
+CUST0917,Matthew Carter,Other,Age is 39 years,Pune,2023-11-12,2025-05-01,37025,1.0,lunasheryl@wise.com,059.944.1505x82854,India
+CUST0918,Scott Smith,Female,35,Bhopal,2022-05-25,2025-04-30,27899,5.0,cheryl49@hotmail.com,12345,UK
+CUST0919,Joshua Barnes,Other,51,Bhopal,2022-05-27,2025-11-09,₹14590,5.0,diana11@yahoo.com,498-058-4277x51360,
+CUST0920,Julie Rose,Other,,Pune,2023-09-15,2025-02-01,,1.0,carlasmith@taylor.com,001-586-826-8281x396,UK
+CUST0921,Heidi Collins,,46,Chennai,2025-10-07,2025-07-11,,1.0,richard70@yahoo.com,(056)849-7462x2150,Canada
+CUST0922,Melissa Jennings,Male,37 yrs,,2021-10-08,2026-02-15,,4.0,wrong_email.com,+1-369-875-4544x07419,USA
+CUST0923,Betty Blanchard,Female,25,,2022-07-22,2024-06-24,37770,5.0,stevenssandra@moss-nguyen.com,12345,UK
+CUST0924,Casey Gonzalez,Female,38,Delhi,2022-04-11,2025-08-06,28549,5.0,hughesdaniel@casey-cook.com,030.561.3562,
+CUST0925,Natalie Orozco MD,Male,54,Chennai,2024-09-23,2025-07-21,18026,3.0,karen32@farrell.com,705-493-2649x1628,UK
+CUST0926,Susan Thornton,Male,58,Pune,2021-10-04,2024-11-18,,,ejohnson@yahoo.com,200-366-7731x5253,
+CUST0927,Rachel Francis,Other,Age is 49 years,Delhi,2024-09-09,2024-08-05,,2.0,cody77@gmail.com,+1-726-920-0727x09355,USA
+CUST0928,Jeffrey Waters,Female,36,Bhopal,2024-01-29,2025-05-16,,3.0,wrong_email.com,520-647-3827,USA
+CUST0929,Michael Webb,Male,58 yrs,,2024-04-21,2024-10-26,34624,2.0,parsonsalicia@ward.com,001-600-505-9696x8666,UK
+CUST0930,Cheyenne Bryant,Female,42 yrs,Indore,2024-02-25,2026-02-18,₹29372,,jessica27@yahoo.com,259.107.2211,Canada
+CUST0931,Pamela Wilson,Male,59 yrs,,2025-02-04,2025-05-16,36900,5.0,franceshebert@yahoo.com,(237)848-6098x63431,UK
+CUST0932,Lauren Torres,Male,Age is 20 years,Bhopal,2024-03-05,2024-06-07,₹30543,5.0,troy01@gmail.com,115.364.5047x28492,India
+CUST0933,,,Age is 45 years,Delhi,2024-02-29,2024-12-27,₹6673,2.0,vdawson@yahoo.com,+1-313-208-4072,Canada
+CUST0934,Brenda Salinas DDS,Male,,Indore,2021-10-31,2024-12-11,,5.0,wrong_email.com,001-882-284-7715x914,USA
+CUST0935,John Dixon,Male,42,Mumbai,2026-05-04,2025-12-09,15454,,wrong_email.com,321.877.0210x135,UK
+CUST0936,Jessica Wolf,Other,,Mumbai,2021-11-24,2025-05-01,₹2077,,kimberly69@yahoo.com,+1-965-619-3046x047,USA
+CUST0937,Elaine Castro,,33 yrs,Indore,2021-12-01,,₹21360,1.0,wmyers@rhodes.com,001-532-537-8983,
+CUST0938,David Mclaughlin,Male,46 yrs,Pune,2022-11-19,2024-11-04,,3.0,hollysalazar@yahoo.com,131-295-4095,UK
+CUST0939,Angel Fisher,Female,Age is 25 years,Chennai,2025-12-11,2024-08-07,₹1338,4.0,jordan64@lopez.com,001-172-279-7542x063,USA
+CUST0940,Shannon Novak,Male,40 yrs,Mumbai,2021-09-16,2024-08-23,,4.0,kwilson@munoz.com,001-394-724-7572x8096,Canada
+CUST0941,Virginia Gilbert,Female,37,Bhopal,2021-05-25,2026-02-21,40334,5.0,smithpeter@gmail.com,001-595-420-7633x080,USA
+CUST0942,Lisa Rosario,Other,Age is 56 years,Mumbai,2024-10-14,2024-09-22,,,wallacericky@hotmail.com,(367)417-5908x24577,UK
+CUST0943,Jesse Carney,Male,,Chennai,2026-01-29,2025-11-19,,5.0,katie91@gmail.com,387-061-3979x072,UK
+CUST0944,Kevin Duffy,Female,,Chennai,2025-03-24,2025-11-06,₹27548,4.0,juliegarcia@soto.com,977.635.8594x31309,
+CUST0945,Amy Lewis,,31 yrs,Delhi,2023-07-05,2024-07-02,,4.0,goodjohn@sims.com,(053)109-7819x07641,India
+CUST0946,Robert Cain,,Age is 32 years,Delhi,2022-03-07,2024-11-30,28483,4.0,wrong_email.com,823-132-5536,UK
+CUST0947,Jennifer Barry,Other,20,Mumbai,2025-03-16,2024-06-14,₹23787,5.0,mherrera@small.com,+1-570-383-2462x940,USA
+CUST0948,Kristen Neal,,,Delhi,2022-05-24,2025-03-06,,4.0,wrong_email.com,457-650-3224x92418,India
+CUST0949,Ryan Fernandez,Male,Age is 34 years,Indore,2025-10-09,2025-02-01,,1.0,ubrown@hotmail.com,+1-354-063-8002x759,Canada
+CUST0950,Deanna Hunt,Male,,Pune,2025-10-23,2024-12-03,,4.0,brandonwhite@hotmail.com,050-450-4267,
+CUST0951,Mary Simpson,Female,28 yrs,Mumbai,2022-07-17,2025-03-29,₹38046,4.0,deckerricky@yahoo.com,(231)319-5233,
+CUST0952,Kelly Stevens,Other,,Bhopal,2024-10-02,2025-12-30,₹7707,3.0,robertgolden@yahoo.com,3462625129,India
+CUST0953,Marcus Williams,,Age is 25 years,Bhopal,2022-09-21,2024-05-09,,5.0,ijohnson@fisher-thompson.org,+1-470-167-6122x532,Canada
+CUST0954,Wesley Harris,Male,47 yrs,Pune,2023-11-06,2024-08-23,₹15174,1.0,kwheeler@hotmail.com,(246)103-2822,Canada
+CUST0955,Teresa Velazquez,Other,,Chennai,2022-02-02,2025-10-11,16434,,angelaroy@yahoo.com,234.687.0957,USA
+CUST0956,Laura Hurst,,43,Pune,2023-12-28,2024-10-07,48634,4.0,george37@hester-jackson.com,001-946-556-1259x665,Canada
+CUST0957,Lynn Smith,Other,,,2025-04-22,2024-06-30,,3.0,hollyfranklin@dunn.com,+1-017-259-4119x0639,USA
+CUST0958,Jose Kelly,Male,Age is 58 years,,2024-12-10,2026-03-18,35460,1.0,edwardsjessica@schwartz.com,001-826-319-5299x048,USA
+CUST0959,Sarah Rojas,Female,,,2023-11-30,2025-04-15,,,rnorman@garza.com,826.864.4361x90873,UK
+CUST0960,Dr. Sheryl Larson,Male,,Delhi,2025-04-26,2025-09-10,38706,2.0,cynthia80@stewart.com,1840479063,USA
+CUST0961,Vincent Mitchell,Other,45,Pune,2024-09-12,2025-10-16,29462,,glenda32@peterson.com,6675905090,
+CUST0962,Mariah Fowler,Male,,Mumbai,2023-02-02,2025-10-09,₹36356,1.0,ksaunders@gmail.com,+1-895-990-6574,Canada
+CUST0963,Teresa Harrington,Female,,Pune,2025-10-10,2025-05-22,,1.0,wrong_email.com,311-599-5825,Canada
+CUST0964,Tiffany Price,,36,,2021-10-29,2024-10-12,₹19457,,jesus44@gmail.com,+1-627-447-6147x8189,Canada
+CUST0965,Ricky Martinez MD,Female,Age is 27 years,Bhopal,2022-07-11,2025-05-21,₹27776,3.0,ericataylor@cole-hernandez.com,(222)538-5352,
+CUST0966,Christopher Smith,Male,57,Mumbai,2023-07-30,2024-09-25,₹48770,,sparksmichael@martin.com,742-998-0302x0198,India
+CUST0967,Susan Hernandez,,43 yrs,Mumbai,2026-01-20,2025-10-17,49207,1.0,crawfordkaren@sutton.com,+1-397-265-8057x834,Canada
+CUST0968,Rebecca Vazquez,Male,,Mumbai,2024-04-19,,₹37409,1.0,lorraineortiz@hotmail.com,+1-339-427-5668x26256,Canada
+CUST0969,Elizabeth Lucas,Other,,,2026-03-06,2024-09-14,23464,5.0,donna91@west-arroyo.com,(140)874-4832x156,India
+CUST0970,Sara Gonzalez,Other,51 yrs,Mumbai,2022-08-13,2024-09-23,,5.0,campbellelizabeth@hotmail.com,(469)726-7343,USA
+CUST0971,Yvette Chavez,Other,,Pune,2024-06-26,2025-04-25,12085,,lisa94@yahoo.com,7015408378,USA
+CUST0972,Melissa Powell,Male,23,,2023-06-29,2024-08-04,18158,4.0,ephillips@yahoo.com,001-302-331-6099x84622,UK
+CUST0973,Michele Rivera,Other,31 yrs,Pune,2023-04-21,2024-06-18,33548,3.0,johnathan77@kaufman.com,(322)627-7259x217,
+CUST0974,Eric Vargas,Other,Age is 56 years,Mumbai,2024-12-24,2025-01-10,,5.0,samanthablanchard@gmail.com,001-558-684-2963x3480,India
+CUST0975,Nicole Boyd,Other,20 yrs,Chennai,2024-06-05,2026-04-09,,,wrong_email.com,593.478.4407x4165,USA
+CUST0976,Norma Conner,Male,25 yrs,Indore,2025-04-20,,,1.0,hurleyjennifer@hotmail.com,001-713-087-6943x211,India
+CUST0977,Julia Edwards,Female,Age is 26 years,Pune,2021-07-27,2024-11-19,43486,1.0,david09@hotmail.com,715.087.4828x2921,India
+CUST0978,Tara Rasmussen,Other,,Delhi,2026-02-13,,,2.0,gatkins@yahoo.com,268.200.6454x58377,UK
+CUST0979,Scott Long,,37 yrs,Bhopal,2023-12-25,2025-11-01,₹49459,2.0,wrong_email.com,+1-209-770-1496x39976,India
+CUST0980,Emily Horton,Female,29,Indore,2026-03-07,2024-09-05,₹26757,4.0,wrong_email.com,+1-380-840-8739x573,USA
+CUST0981,Dawn Bennett,Male,Age is 38 years,Indore,2022-04-14,2025-04-06,₹21351,,wrong_email.com,(058)733-5497,Canada
+CUST0982,Samantha Blake,,,,2025-01-18,2025-03-17,,4.0,kellersteven@mosley-williams.com,172-553-1655x572,USA
+CUST0983,Karen Roach,Other,,Delhi,2024-06-02,2025-03-25,,,samuelmolina@berry.com,640-045-3010,USA
+CUST0984,Emily Robinson,Male,37,Pune,2023-01-09,2025-05-15,,3.0,ebrewer@graves-johnson.biz,001-491-683-9861x2614,UK
+CUST0985,Elizabeth Mcbride,Female,30,Delhi,2022-03-16,2025-10-28,₹37615,4.0,lindasantana@gmail.com,12345,India
+CUST0986,Stacey Kennedy,Female,53 yrs,Delhi,2023-05-07,2024-08-01,3738,3.0,christine42@delgado-gonzales.biz,001-586-476-2271,USA
+CUST0987,Jacqueline Chambers,,Age is 58 years,Indore,2023-01-28,2025-07-10,2461,5.0,hughesgabriela@hotmail.com,(392)810-3750,Canada
+CUST0988,Jose Turner,Female,Age is 29 years,Chennai,2022-05-30,2024-07-21,25675,4.0,mgomez@gmail.com,9925953417,USA
+CUST0989,Lorraine Waller,Male,27 yrs,Pune,2023-04-30,2025-09-19,,3.0,petersonjesse@yahoo.com,469.268.7162x625,
+CUST0990,Kristin Juarez,Male,Age is 42 years,,2021-09-13,2025-04-24,17436,5.0,jennifergarcia@yahoo.com,968-878-1078,
+CUST0991,Tony Williams,,39,Pune,2024-03-27,2025-09-27,,3.0,livingstonanthony@johnston.com,(058)958-6662x47646,
+CUST0992,Cindy Price,,Age is 60 years,Indore,2022-08-27,2025-09-04,1240,,richadam@martinez.com,001-304-853-0182x1757,USA
+CUST0993,Wendy Martin,,,Mumbai,2021-11-16,2024-06-04,₹26598,4.0,nflynn@martinez.com,242.790.6078x390,Canada
+CUST0994,Anthony Perez,Female,Age is 23 years,Pune,2024-09-15,2026-03-01,25112,5.0,julie00@rice.com,6292385048,UK
+CUST0995,Tammy Schmidt,Female,28,Pune,2024-09-14,2026-04-27,,1.0,wrong_email.com,+1-553-821-8751x793,USA
+CUST0996,Ryan Fox,Female,57,,2024-09-10,2024-09-18,34413,1.0,marquezandrew@wang-king.com,942-513-9696,USA
+CUST0997,Victoria Jones,,,Pune,2025-02-07,2024-07-28,₹49247,5.0,welchanthony@gmail.com,914-950-1033x3539,USA
+CUST0998,Dawn Adkins,,Age is 22 years,Indore,2024-04-12,2025-09-15,,5.0,marquezross@johnson.com,(145)156-7552,USA
+CUST0999,,,Age is 47 years,Mumbai,2021-11-18,,48567,,twarren@vasquez.com,576-510-7252,India
+CUST1000,Laura Moore,,39 yrs,Indore,2022-01-11,2025-04-25,,3.0,turnerchristopher@sanchez.info,(762)959-2129x0352,UK
+CUST0001,Luke Hanson,,28,Chennai,2023-11-11,2026-02-21,₹11040,1.0,kevinfisher@hotmail.com,316.314.2031,
+CUST0002,Lisa Costa,Other,,Pune,2026-04-06,2026-04-18,₹15142,1.0,davidrobinson@kelly-crawford.net,(600)176-5674x84235,USA
+CUST0003,Mr. Kevin Gamble,Female,33 yrs,,2021-08-26,2026-04-18,,,wrong_email.com,+1-322-053-8016x2164,India
+CUST0004,Jennifer Santos,,60 yrs,,2025-04-01,2025-12-18,26072,5.0,wrong_email.com,260.082.5758x91945,Canada
+CUST0005,,,Age is 45 years,,2024-09-08,2025-10-02,,5.0,sancheztina@brooks.com,+1-609-632-0152,UK
+CUST0006,Randall Martin,,38 yrs,Indore,2022-03-06,2025-08-08,₹26343,4.0,watsonkyle@hotmail.com,12345,UK
+CUST0007,Samuel Webster,Male,,Delhi,2025-08-03,2025-11-16,,1.0,smithmichael@gmail.com,(385)871-3226,Canada
+CUST0008,Gregory Walsh,Female,,Bhopal,2022-08-13,2025-08-31,,3.0,lewisstephanie@benton.com,001-512-613-0648x4886,India
+CUST0009,Ronald Mullen,Other,,Mumbai,2022-06-02,2025-07-01,,5.0,laurie10@gmail.com,917-650-9689,USA
+CUST0010,Jessica Tate,,,Bhopal,2023-09-16,2026-04-14,2231,,jwalker@berry.com,241-899-0079x56692,
+CUST0011,Sean Shelton,Other,,Mumbai,2024-08-02,2024-06-23,,1.0,elizabeth57@gmail.com,906-136-8626,UK
+CUST0012,Courtney Barnett,Female,Age is 29 years,Mumbai,2024-06-06,2025-03-05,₹4306,4.0,wjohnson@gmail.com,921-209-8209x223,India
+CUST0013,Anthony Rosario,Other,18 yrs,Chennai,2023-05-15,2025-10-10,8637,,ellisonthomas@gmail.com,(322)458-6132x6223,India
+CUST0014,Rebecca Rodriguez,,Age is 54 years,Indore,2026-03-13,,48839,2.0,mbanks@warner.com,881-181-5660x913,USA
+CUST0015,Andrea Jones,Female,28 yrs,Mumbai,2025-07-04,2025-02-28,,4.0,wrong_email.com,487.472.5259,India
+CUST0016,Carrie Thompson,Other,27 yrs,Indore,2023-05-06,2025-01-13,12485,5.0,samantharobinson@christian.com,546-721-9533,
+CUST0017,James Hatfield Jr.,,,Pune,2022-08-02,2026-04-06,₹34111,1.0,mistybaker@smith.com,943-766-3014x257,India
+CUST0018,Alicia Williams,Other,,Delhi,2023-09-27,2024-07-31,₹25641,4.0,justin15@yahoo.com,239-015-0306,India
+CUST0019,Duane Oconnell,,,Indore,2023-09-13,2025-06-24,41419,5.0,uwatson@boyd.net,903-570-3269,Canada
+CUST0020,Jonathan Monroe,Female,,Bhopal,2021-06-01,2024-06-06,₹35910,,shawnchavez@hotmail.com,408.015.9136,Canada
